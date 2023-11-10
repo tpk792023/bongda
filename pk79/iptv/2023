@@ -192,8 +192,7 @@ http://is.am/5kaw-vtv7-hd.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5kam-pk79-vtv8-hd.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
+http://is.am/5kan-vtv9-hd.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 http://live.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
