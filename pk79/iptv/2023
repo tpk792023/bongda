@@ -1,8 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2023/10/19/Screenshot_20231019_185755_CapCut.jpg",XEMTVHAY
 http://is.am/5jq4/k+cine
-#EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_16996148523201b7845d1f9b62dcd.jpeg",WC U17-01
+#EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-01
 http://is.am/5kby-u17.m3u8
+#EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-02
+http://is.am/5kb3-u17.m3u8
 #EXTINF:-1 group-title="⚽️|Thapcamtv" tvg-logo="https://img.upanh.tv/2023/10/19/Screenshot_20231019_220358_CapCut.jpg",TPK79
 https://code.vthanhtivi.pw/bongda/thapcamtv/rkZkVcP.m3u8
 #EXTINF:-1 group-title="⚽️|Vebotv" tvg-logo="https://img.upanh.tv/2023/10/19/Screenshot_20231019_220358_CapCut.jpg",16:30-09/11-Gokulam Kerala (W) vs Hualien (W)
