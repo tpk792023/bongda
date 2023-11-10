@@ -332,7 +332,7 @@ https://hqth.me/KOS|Referer=http://sctvonline.vn/index.m3u8
 https://live-ali2.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="📺 SCTV" tvg-logo="http://xemtv.tvhayhd.com/uploads/tv_image/sctv7.png", SCTV7 HD 
-http://115.73.139.88:8080/sctv/s4/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+http://is.am/5kav-sctv7-pk79.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="📺 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
 https://hqth.me/ocP4WT|Referer=http://sctvonline.vn/index.m3u8
