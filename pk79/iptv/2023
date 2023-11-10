@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1697716675567_1699626202902-removebg-previewc8a65c2b98942e55.png",XEMTVHAY
-http://is.am/5jq4/k+cine
+http://is.am/5kbb|Referer=http://sctvonline.vn/index.m3u8
+#http://is.am/5jq4/k+cine
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-01
 http://is.am/5kby-u17.m3u8
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-02
