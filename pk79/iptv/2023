@@ -275,7 +275,7 @@ https://1117141481.vnns.net/VTC16/playlist.m3u8
 #--*.*--Kênh thời sự--*.*--#
 #EXTINF:0 tvg-id="antvhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/Nt17rCr/ANTV.png", ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58
-https://fjp7rl09suliv.vcdn.cloud/channel/antv/channel/antv_1080p/chunks.m3u8
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/HKT7QyG/QUOCHOI.png", QUỐC HỘI
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="qpvnhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/7WSkk4v/QPVN.png", QUỐC PHÒNG VIỆT NAM
