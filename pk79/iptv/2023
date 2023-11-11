@@ -3,6 +3,8 @@
 http://is.am/5kbg|Referer=http://sctvonline.vn/index.m3u8
 #http://is.am/5kbb|Referer=http://sctvonline.vn/index.m3u8
 #http://is.am/5jq4/k+cine
+#EXTINF:-1 tvg-id="ONPLUS" group-title="📺 TV" tvg-logo="https://i.upanh.org/2023/11/11/58b0926d-7b1a-4753-a025-b6ab375e46ee-removebg-preview82d7f8da731ce7d6.png",ONPLUS
+http://is.am/5kcy/onplus.m3u8
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-01
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-02
