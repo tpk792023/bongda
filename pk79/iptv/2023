@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1697716675567_1699626202902-removebg-previewc8a65c2b98942e55.png",XEMTVHAY
-https://vod-integrated-cdn.onlive.vn/v101/hls/save/afreeca/station/2023/0926/16/1695721411960534.mp4/both/playlist.m3u8
+https://vod-integrated-cdn.onlive.vn/v101/hls/save/afreeca/station/2023/0926/16/1695721411960534.mp4/original/both/playlist.m3u8
 #http://171.244.63.246/Cua-Sport1/mpegts?token=test-CDN
 #http://is.am/5kbg|Referer=http://sctvonline.vn/index.m3u8
 #http://is.am/5kbb|Referer=http://sctvonline.vn/index.m3u8
