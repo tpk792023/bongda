@@ -841,7 +841,7 @@ http://gg.gg/17jfre|Referer=http://sctvonline.vn/index.m3u8
 https:///e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/08/15/6mdk7ymv_onsport_thumbeb27d6374fd627b8801e154d7a0e0314_1920_1080.png", VTVcab6 - ON SPORTS + HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab6-on-sport-plus/index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSNEWS_150x904.jpg",ON SPORTS NEWS VieON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
