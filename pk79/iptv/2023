@@ -294,7 +294,7 @@ https://wintv.fun/360/174/manifest.mpd
 #--*.*--VTV--*.*--# 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+https://qnetlive.nethubtv.vn/live/vtv1.smil/playlist.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
