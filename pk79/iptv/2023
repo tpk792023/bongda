@@ -380,10 +380,12 @@ http://is.am/5kak|Referer=http://sctvonline.vn/index.m3u8
 http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-5M.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="HTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5k8u-htv7-hd.m3u8|Referer=http://sctvonline.vn/index.m3u8
+https://wintv.fun/360/193/index.m3u8
+#http://is.am/5k8u-htv7-hd.m3u8|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="HTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5kaj-htv9-hd.m3u8|Referer=http://sctvonline.vn/index.m3u8
+https://wintv.fun/360/194/index.m3u8
+#http://is.am/5kaj-htv9-hd.m3u8|Referer=http://sctvonline.vn/index.m3u8
 
 
 
@@ -943,16 +945,16 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-https://thick.ddns.net/thvli/thvl1-hd/index.m3u8
+https://wintv.fun/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-https://thick.ddns.net/thvli/thvl2-hd/index.m3u8
+https://wintv.fun/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png" tvg-chno="43" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtNzIwcCIsImV4cCI6MTYzMjA1ODQ3OH0.fPCUZD1AUNpEmDrq3fbtWBvw6mUK44B7mNncATS4NPI-/thvl3-720p/chunks_dvr_range-${start}-3464.m3u8",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-https://thick.ddns.net/thvli/thvl3-hd/index.m3u8
+https://wintv.fun/360/219/index.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png" tvg-chno="44" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMjA1ODQ3Mn0.nZmTLeG-UUwn6Am5noSxRzcQCFJOwq2g8Ei3u47uqb4-/thvl4-720p/chunks_dvr_range-${start}-293.m3u8",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-https://thick.ddns.net/thvli/thvl4-hd/index.m3u8
+https://wintv.fun/360/220/index.m3u8
 #EXTINF:-1 tvg-id="binhduong1"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/q5C5Fb9/BTV1.png",BTV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
