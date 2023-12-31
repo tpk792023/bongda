@@ -114,7 +114,8 @@ http://is.am/5m8k/vieon/sport_1.m3u8
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-03
 https://code.vthanhtivi.pw/bongda/thapcamtv/4sdMWsp.m3u8
 #EXTINF:-1 tvg-id="WC U17" group-title="📺 WC" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1699614833653_1699614852320-removebg-previewa5753302187ede4b.png",WC U17-04
-http://m3u.at/mytv-CINE?khichtv.m3u8
+http://is.am/5mda
+#http://m3u.at/mytv-CINE?khichtv.m3u8
 #http;//is.am/5md7
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
 https://hqth.me/801mytv
