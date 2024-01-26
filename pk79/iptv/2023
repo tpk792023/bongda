@@ -65,8 +65,8 @@ http://tinyurl.com/maitiendatnhacxuan
 http://is.am/5mmk
 #EXTINF:-1 group-title="VTVCab16" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png",Onfootball
 #http://is.am/5mmv
-#http://tinyurl.com/vtvcab16
-https://api.wintv.me/vtvcab16/index.m3u8#|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/vtvcab16/
+http://tinyurl.com/vtvcab16
+#https://api.wintv.me/vtvcab16/index.m3u8#|Referer=https://vieon.vn/truyen-hinh-truc-tuyen/vtvcab16/
 #EXTINF:-1 group-title="▷|Mai Tiến Đạt Channel" tvg-logo="https://i.ytimg.com/vi/iuTN_h8JJA0/hq720.jpg",Liên Khúc - VẠN LỐI SẦU - Mai Tiến Đạt, Hay Nhất Mới Nhất Mọi Thời Đại
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://is.am/5mmx/maitiemdat
