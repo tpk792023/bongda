@@ -615,6 +615,8 @@ https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u
 #https://code.vthanhtivi.pw/getlink/onlive/viegiaitri/82706.m3u8
 #https://tiemnhazunn.click/vieon/vie-giai-tri-hd/index.m3u8
 http://tinyurl.com/vtvcab6tpk79|Referer=http://sctvonline.vn/index.m3u8
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/KFctr0t/VIEGIAITRI.png",VTVCab1 - Vie Giải Trí sv2
+http://is.am/5mxy/VTVCab1 - Vie Giải Trí
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSHD_150x906.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VTVCab3 - ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/17jfu8|Referer=http://sctvonline.vn/index.m3u8
@@ -622,56 +624,73 @@ http://gg.gg/17jfu8|Referer=http://sctvonline.vn/index.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 #https://livevlive.vtvcab.vn/hls/VAN_HOA_CL/m20_index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/logoONMovieschuan-011.jpg" ,VTVCab4 - ON MOVIES sv2
+http://is.am/5mx3/VTVCab4 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/3W6Bdqy/onphimviet.jpg" ,VTVcab2 - ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent="KIIP"
 http://gg.gg/17jfre|Referer=http://sctvonline.vn/index.m3u8
+#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/3W6Bdqy/onphimviet.jpg" ,VTVcab2 - ON PHIM VIỆTsv2
+http://is.am/5mx2/VTVcab2 - ON PHIM VIỆT 
 #EXTINF:0 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/7N1QbFJ/VTVCAB5.png",VTVCab5 - E Channel
 #EXTVLCOPT:http-user-agent="KIIP"
 https:///e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/7N1QbFJ/VTVCAB5.png",VTVCab5 - E Channel sv2
+http://is.am/5mx4/VTVCab5
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/08/15/6mdk7ymv_onsport_thumbeb27d6374fd627b8801e154d7a0e0314_1920_1080.png", VTVcab6 - ON SPORTS + HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
+http://is.am/5mnr/vtvcab6
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/08/15/6mdk7ymv_onsport_thumbeb27d6374fd627b8801e154d7a0e0314_1920_1080.png", VTVcab6 - ON SPORTS + HD sv2
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8#|Referer=http://sctvonline.vn
+#EXTINF:-1  tvg-id="vtvcab3hd" tvg-name="On Sports 50fps" tvg-logo="http://iptv.hoangai.vn:8080/images/bmngdsMQZrvmYOEJPyUmV2Fvos3v-ZIO-kXlEje-SJ4OA8eNL45B3QW7raNybgGJ.png" group-title="VTV Cab",On Sports 50fps
+http://is.am/5mns/ON SPORTS
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSNEWS_150x904.jpg",ON SPORTS NEWS VieON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://b4tv.live/b4tv/b4tv/3.m3u8
+http://is.am/5mnu/ON SPORTS NEWS
 #https://tiemnhazunn.click/vieon/vtvcab18-on-sports-news/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONBibiChuan-011.jpg",VTVCab 8 - ON BIBI
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONBibiChuan-011.jpg",VTVCab 8 - ON BIBI sv2
+http://is.am/5mx6/VTVCab8
+#EXTINF:-1  tvg-id="vtvcab9hd" tvg-name="VTVcab9 | Info TV" tvg-logo="http://iptv.hoangai.vn:8080/images/dsAt8cMDBjbP3mVNdeYR4Xh3ZT9AvqHHUXz7Z3D-cwi_dJfCD5ff1BSNNDXaaUpw.png" group-title="VTV Cab",VTVcab9 | Info TV
+http://is.am/5mx7/VTVCab9
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fvSwpp4/ONCINE.png",VTVCab10 - ON CINE
 #EXTVLCOPT:http-user-agent="KIIP"
 #https://livevlive.vtvcab.vn/hls/O2_TV/m20_index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fvSwpp4/ONCINE.png",VTVCab10 - ON CINE sv2
+http://is.am/5mx8/VTVCab10
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL VieON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5kap|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
-http://is.am/5jms/pk79.mp4
+http://is.am/5mnt/VTVCab16
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/GRhRTyw/VTVCAB10-VIEDRAMAS.png",VTVCab19 - Vie Dramas
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/GRhRTyw/VTVCAB10-VIEDRAMAS.png",VTVCab19 - Vie Dramas sv2
+http://is.am/5mxc/VTVCab19
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCabV" tvg-logo="https://i.ibb.co/QQKmk1C/VTVCAB20.png",VTVCab20 - V Family
-https://tiemnhazunn.click/vieon/vtvcab20-vfamily/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab7/index.m3u8
+http://is.am/5mxd/VTVCab20
+#EXTINF:-1 tvg-id="vtv/cab7hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
+http://is.am/5mx5/ON O2TV
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ON_Kids_Logo_20231.jpg" ,ON KIDS
-https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
+http://is.am/5mxa/ON KIDS
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONLifeChuan-011.jpg", ON LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab22-life-tv/index.m3u8
+http://is.am/5mxb/ON LIFE
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONMusicChuan-011.jpg" ,ON MUSIC
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #ttps://livevlive.vtvcab.vn/hls/M_CHANNEL/m20_index.m3u8
+#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONMusicChuan-011.jpg" ,ON MUSIC sv2
+http://is.am/5mx9/ON MUSIC
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" ,VTVCab17 - ON Trending TV 
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/ON_Golf_-_Premium_by_VTVcab_logo_08-09-2021.png/revision/latest?cb=20211025032442&path-prefix=vi", ON Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab23-the-thao-golf/index.m3u8
+http://is.am/5mxz/ON Golf
 #EXTINF:-1 tvg-id="btv5" group-title="VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", BTV5 - ON Sports Action
-https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
+http://is.am/5mxe/BTV5
 
 
 
