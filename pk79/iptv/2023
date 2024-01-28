@@ -162,13 +162,13 @@ http://is.am/5mda
 #http://m3u.at/mytv-CINE?khichtv.m3u8
 #http;//is.am/5md7
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
-https://hqth.me/801mytv
+http://is.am/5mnw/801mytv
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-https://hqth.me/802mytv
+http://is.am/5mnm/802mytv
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-https://hqth.me/803mytv
+http://is.am/5mnn/803mytv
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-https://hqth.me/804mytv
+http://is.am/5mnx/804mytv
 #EXTINF:-1 group-title="⚽️|BÓNG ĐÁ" tvg-logo="https://i.upanh.org/2023/11/10/Screenshot_20231110_214209_Chrome-removebg-preview-1aaa70e2138903831.png",TTBD1
 http://is.am/5kb9
 #EXTINF:-1 group-title="⚽️|BÓNG ĐÁ" tvg-logo="https://i.upanh.org/2023/11/10/Screenshot_20231110_214209_Chrome-removebg-preview-1aaa70e2138903831.png",PSV VS ZWO
@@ -373,13 +373,13 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #--*.*--TV360 Event--*.*--#
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
-http://fpt.vthanhtivi.pw/TV360_1/index.m3u8
+http://is.am/5mnh/tv30-1
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
-http://fpt.vthanhtivi.pw/TV360_2/index.m3u8
+http://is.am/5mnv/tv360-2
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
-http://fpt.vthanhtivi.pw/TV360_3/index.m3u8
+http://is.am/5mnj/tv360-3
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
-http://fpt.vthanhtivi.pw/TV360_4/index.m3u8
+http://is.am/5mnk/tv360-4
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="https://liquipedia.net/commons/images/thumb/c/ce/BLAST_Premier_Fall_Groups_lightmode.png/600px-BLAST_Premier_Fall_Groups_lightmode.png", BLAST Fall Groups 2023
 https://wintv.fun/360/174/index.m3u8
 
