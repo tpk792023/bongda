@@ -14,8 +14,8 @@ http://is.am/5mpp/intro
 #https://github.com/tpk792023/thvl1/raw/b5d4d056096cd99f0d1589f6255eb84e7584e1d6/vinhlong1hd.m3u8
 #http://is.am/5mb7
 #http://is.am/5mb6
-#https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
-http://gg.gg/bduong3
+https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
+#http://gg.gg/bduong3
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8#|Referer=http://sctvonline.vn
 #http://is.am/5mf7
 #http://vthanhtivi.b-cdn.net/kaction/index.m3u8
@@ -42,8 +42,8 @@ https://xem.li/K-kidstpk
 
 #EXTINF:-1 group-title="⚽ SocoLive" tvg-logo="https://sta.vnres.co/file/common/20240101/33bc4bf153071c7989fbc1c430d58541.jpg", 🔴 ASIAN CUP: Australia vs India
 http://is.am/5mgp
-#EXTINF:-1 group-title="⚽ ASIAN CUP 2024" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png", 31/01/2024 - 18:30 - Bahrain vs Japan
-http://is.am/5mup
+#EXTINF:-1 group-title="⚽ ASIAN CUP 2024" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png", 31/01/2024 - 18:30 - Tajkistan vs Jordan
+http://is.am/5nzc
 #EXTINF:-1 group-title="⚽ ASIAN CUP 2024" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png", 31/01/2024 - 23:00 - Iran vs Syrian
 http://is.am/5muq
 
