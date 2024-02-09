@@ -33,6 +33,10 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 
+#EXTINF:-1 group-title="🔴|Beat chất lượng cao" tvg-logo="https://i.ytimg.com/vi/W0wZlw3bcNk/hqdefault_live.jpg",TRỰC TIẾP BẮN PHÁO HOA GIAO THỪA 2024 - Chào Xuân Giáp Thìn | Nhạc Tết 2024 Remix HAPPY NIEW YEAR
+http://is.am/5nym/nhacxuan
+
+
 #EXTINF:-1 group-title="▷|Cô Ú Official" tvg-logo="https://i.ytimg.com/vi/IkXa0gWGE0Y/hqdefault.jpg",Liên Khúc LÔ TÔ CÔ Ú 5 - LÔ TÔ MIỆT VƯỜN | Ns Thanh Hằng - Ns Bạch Long - Ns Dũng Nhí - Cô Ú
 http://is.am/5nyh/loto-lk
 #EXTINF:-1 group-title="🔴|ASIAN CUP 2024" tvg-logo="https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/vtv5_577bcf6b.jpg",TRỰC TIẾP | QATA-TAJKISTAN | AFC ASIAN CUP QATAR 2023 
