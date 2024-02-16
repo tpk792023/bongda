@@ -36,6 +36,17 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="🔴|Beat chất lượng cao" tvg-logo="https://i.ytimg.com/vi/W0wZlw3bcNk/hqdefault_live.jpg",TRỰC TIẾP BẮN PHÁO HOA GIAO THỪA 2024 - Chào Xuân Giáp Thìn | Nhạc Tết 2024 Remix HAPPY NIEW YEAR
 http://is.am/5nym/nhacxuan
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy2RdL6Fth2VPYcMtHOkgLB_/m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy1Nd1LwIPH0jlneTNthMu5V/m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
+http://hoatv001.ddns.net:9981/stream/mux/cd6193842d99b117648408e7b115b710?
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy122UMe7W7k-neewI4t5Epj/m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy3PPue2Vl1dNu5zi7HxxOI7/m3u8
+
 
 #EXTINF:-1 group-title="▷|Cô Ú Official" tvg-logo="https://i.ytimg.com/vi/IkXa0gWGE0Y/hqdefault.jpg",Liên Khúc LÔ TÔ CÔ Ú 5 - LÔ TÔ MIỆT VƯỜN | Ns Thanh Hằng - Ns Bạch Long - Ns Dũng Nhí - Cô Ú
 http://is.am/5nyh/loto-lk
