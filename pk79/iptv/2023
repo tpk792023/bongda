@@ -34,7 +34,7 @@ http://hoatv001.ddns.net:9981/stream/mux/bedb37103fc67d10e2379e5481886491?
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/vieon/vtvcab16-on-football/xemlai/${start}-${offset}", ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/f28a6e36aef4d55eb6f40d3d5aa792f1/getlink/vieon/id/vtvcab16-on-football/xemlai/${start}-${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 https://synguyen.net/api/token/f28a6e36aef4d55eb6f40d3d5aa792f1/getlink/vieon/id/vtvcab16-on-football
 
