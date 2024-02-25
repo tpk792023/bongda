@@ -46,7 +46,8 @@ http://is.am/5n4j
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION
 http://is.am/5n4k
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
-http://is.am/5nzj
+http://tinyurl.com/k-sport1-tv360
+#http://is.am/5nzj
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
 http://is.am/5n4v
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS
@@ -55,21 +56,9 @@ http://is.am/5n4w
 
 #EXTINF:-1 group-title="▷|Cô Ú Official" tvg-logo="https://i.ytimg.com/vi/IkXa0gWGE0Y/hqdefault.jpg",Liên Khúc LÔ TÔ CÔ Ú 5 - LÔ TÔ MIỆT VƯỜN | Ns Thanh Hằng - Ns Bạch Long - Ns Dũng Nhí - Cô Ú
 http://is.am/5nyh/loto-lk
-#EXTINF:-1 group-title="🔴|ASIAN CUP 2024" tvg-logo="https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/vtv5_577bcf6b.jpg",TRỰC TIẾP | QATA-TAJKISTAN | AFC ASIAN CUP QATAR 2023 
-https://wintv.fun/360/110/index.m3u8
-
-EXTINF:-1 group-title="🔴|ASIAN CUP 2024" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsRcSIqrXr_bJHZoMkMyDeNs.png",VTV5 MYTV
-http://is.am/5mv5
-
-#EXTINF:-1 group-title="🔴|Nhạc xuân" tvg-logo="https://s1.dmcdn.net/v/S-TGs1Wg4nFi0qKIJ/x120.jpg",liên khúc xuân
-https://xem.li/K-kidstpk
 
 #EXTINF:-1 group-title="⚽ SocoLive" tvg-logo="https://sta.vnres.co/file/common/20240101/33bc4bf153071c7989fbc1c430d58541.jpg", 🔴 ASIAN CUP: Australia vs India
 http://is.am/5mgp
-#EXTINF:-1 group-title="⚽ ASIAN CUP 2024" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png", 31/01/2024 - 18:30 - Iran vs Japan
-http://is.am/5nzh
-#EXTINF:-1 group-title="⚽ ASIAN CUP 2024" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png", 31/01/2024 - 22:30 - Qata vs Uzebekistan
-http://is.am/5nzv
 
 
 #EXTINF:-1 tvg-id="ONPLUS" group-title="📺 TV" tvg-logo="https://i.upanh.org/2023/11/11/58b0926d-7b1a-4753-a025-b6ab375e46ee-removebg-preview82d7f8da731ce7d6.png",ONPLUS
