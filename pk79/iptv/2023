@@ -333,7 +333,7 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 13 [BLV:Chu Du]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chuduhd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 14 [BLV:Xi Măng]
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@ximanghd1.flv
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@ximangsd1/chunklist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 15 [BLV:Thợ Xây]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 16 [BLV:Cà Chuối]
@@ -341,7 +341,7 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 17 [BLV:Páo]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 17 [BLV:Mõn]
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@momsd1/playlist.m3u8
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@momsd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="⚽️|SPORT [Thập Cẩm]" tvg-logo="https://img.upanh.tv/2023/11/10/images.jpg",SPORT HD 1
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 group-title="⚽️|SPORT [Thập Cẩm]" tvg-logo="https://img.upanh.tv/2023/11/10/images.jpg",SPORT HD 2
