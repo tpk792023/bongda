@@ -307,7 +307,7 @@ https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8#|Referer=htt
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Giàng A Lú]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Giàng A Lú sd]
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lulusd1.flv|Referer=https://watch.rkplayer.xyz
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lulusd1.flv#|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 02 [BLV: Giàng A Lò]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@dosd1.flv|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 03 [BLV: Cá Heo]
