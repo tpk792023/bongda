@@ -304,7 +304,9 @@ https://1123139281.cdn.khmer-hd.com/may7/chunks.m3u8#|Referer=https://watch.ezyp
 https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
 #EXTINF:-1 group-title="⚽️|Bongda" tvg-logo="https://i.ibb.co/RvnMDYC/IMG-1696681000585-1696681013884.png",thethao15
 https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8#|Referer=https://watch.ezyproxy.com
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Nhà Đài
+#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Nhà Đài]
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://watch.rkplayer.xyz
+#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Nhà Đài]
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Giàng A Lú]
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@luluhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
