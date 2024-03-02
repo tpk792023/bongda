@@ -41,30 +41,41 @@ https://api.wintv.me/vtvcab16/index.m3u8
 #EXTINF:-1 group-title="🔴|Beat chất lượng cao" tvg-logo="https://i.ytimg.com/vi/W0wZlw3bcNk/hqdefault_live.jpg",TRỰC TIẾP BẮN PHÁO HOA GIAO THỪA 2024 - Chào Xuân Giáp Thìn | Nhạc Tết 2024 Remix HAPPY NIEW YEAR
 http://is.am/5nym/nhacxuan
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE vieon
 http://is.am/5n86
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE cliptv
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE mytv
 http://is.am/5n4j
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION mytv
 http://is.am/5n4k
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION cliptv
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION vieon
 http://is.am/5n87
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 vieon
 http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
 #http://tinyurl.com/k-sport1-tv360
 #http://is.am/5nzj
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 cliptv
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 mytv
 http://is.am/5n89
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 vieon
 http://is.am/5n4v
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 cliptv
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 mytv
 http://is.am/5n85
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS mytv
 http://is.am/5n4w
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS cliptv
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS vieon
 http://is.am/5n88
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ CINE cliptv
+http://is.am/5n8c
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION cliptv
+http://is.am/5n8d
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 cliptv
+http://is.am/5n8e
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 cliptv
+http://is.am/5n8f
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS cliptv
+http://is.am/5n8g
+
 #EXTINF:-1 group-title="▷|Cô Ú Official" tvg-logo="https://i.ytimg.com/vi/IkXa0gWGE0Y/hqdefault.jpg",Liên Khúc LÔ TÔ CÔ Ú 5 - LÔ TÔ MIỆT VƯỜN | Ns Thanh Hằng - Ns Bạch Long - Ns Dũng Nhí - Cô Ú
 http://is.am/5nyh/loto-lk
 #EXTINF:-1 tvg-id="" tvg-name="WWE FHD" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3No61HPU8ItZXvSgiXaS4EmEQWYvwQwwa9uG0KPnGtSGmomSxk6GPFuH7bSOLaBi1EHY5MqT7fwT7G8Y4Z8M7MgEQLCGMoqHck3uS-ocrKcXW9OsH-d4SCVrb14xfLDNcM.png" group-title="WWE",WWE FHD 
