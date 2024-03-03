@@ -99,6 +99,8 @@ http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5MzPcT
 #EXTINF:-1 tvg-id="" tvg-name="Peacock Live WWE Network" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3No61HPU8ItZXvSgiXaS4EmEQWYvwQwwa9uG0KPnGtSGmomSxk6GPFuH7bSOLaBi1EHY5MqT7fwT7G8Y4Z8M7MgEQLCGMoqHck3uS-ocrKcXW9OsH-d4SCVrb14xfLDNcM.png" group-title="WWE",Peacock Live WWE Network 
 http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5PFDF_Y71s4q5kJd2_Mfyu1/ts
 #EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagathomo.live)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
+https://now.rtmp-now.com/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagathomo.live)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
 https://play.stream-keycdn.com/live/thomohot.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (daga1.tv)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (daga1.tv)
 https://fast2.gmnc.xyz/28753_hd/28753_hd@720p.m3u8
