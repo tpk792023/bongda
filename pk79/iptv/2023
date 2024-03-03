@@ -41,6 +41,15 @@ https://api.wintv.me/vtvcab16/index.m3u8
 https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
 https://api.wintv.me/vtvcab6/index.m3u8
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
+#EXTGRP:SCTV
+https://live.pipitv.top/stream/channelid/566408459
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
+#EXTGRP:SCTV
+https://live.pipitv.top/stream/channelid/2145679799
+#EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
+#EXTGRP:SCTV
+https://live.pipitv.top/stream/channelid/1894964523
 
 
 #EXTINF:-1 group-title="🔴|Beat chất lượng cao" tvg-logo="https://i.ytimg.com/vi/W0wZlw3bcNk/hqdefault_live.jpg",TRỰC TIẾP BẮN PHÁO HOA GIAO THỪA 2024 - Chào Xuân Giáp Thìn | Nhạc Tết 2024 Remix HAPPY NIEW YEAR
