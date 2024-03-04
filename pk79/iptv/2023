@@ -33,8 +33,8 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
-##EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg", 
-
+#EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",Triều Tiên -TƯ
+http://is.am/5n8t
 
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png", ON Football HD
@@ -49,10 +49,10 @@ https://api.wintv.me/vtvcab6/index.m3u8
 https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
 #EXTGRP:SCTV
-https://live.pipitv.top/stream/channelid/2145679799
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/index.m3u8
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
 #EXTGRP:SCTV
-https://live.pipitv.top/stream/channelid/1894964523
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 
 
 #EXTINF:-1 group-title="🔴|Beat chất lượng cao" tvg-logo="https://i.ytimg.com/vi/W0wZlw3bcNk/hqdefault_live.jpg",TRỰC TIẾP BẮN PHÁO HOA GIAO THỪA 2024 - Chào Xuân Giáp Thìn | Nhạc Tết 2024 Remix HAPPY NIEW YEAR
