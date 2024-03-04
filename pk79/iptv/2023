@@ -34,7 +34,7 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD
-http://113.22.25.101:4022/udp/225.1.1.28:30120
+http://113.22.25.101:4022/udp/225.1.2.49:30120
 
 
 #EXTINF:-1 tvg-id="kênh trực tiếp 1" group-title="FPT Play" tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD 1
