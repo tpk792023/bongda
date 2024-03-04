@@ -34,7 +34,7 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD
-http://42.115.152.148:9876/udp/225.1.1.112:30120
+http://42.115.152.148:9876/udp/225.1.4.90:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp (HD 4Mbps)
 udp://@225.1.4.125:30120
 
