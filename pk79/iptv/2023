@@ -37,6 +37,7 @@ https://api.wintv.me/vtvcab3/index.m3u8
 http://42.115.152.148:9876/udp/225.1.1.27:30120
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD 2
 udp://@225.1.1.27:30120
+
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png", ON Football HD
 https://api.wintv.me/vtvcab16/index.m3u8
 #http://tinyurl.com/4bdpn4rf
