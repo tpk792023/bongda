@@ -58,7 +58,9 @@ https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/df8645355704ca61fad43af3ddca101b/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
 https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
-https://api.wintv.me/vtvcab6/index.m3u8
+https://helvid.321watch.com/video/m3u8/202403/33be07df7f05/playlist.m3u8|https://helvid.com
+#https://api.wintv.me/vtvcab6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 #EXTGRP:SCTV
 https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
