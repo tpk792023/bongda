@@ -50,6 +50,7 @@ https://vips-livecdn.fptplay.net/NTY2MTMxfHRoZXRoYW8wNl92aGxzLnNtaWx8ZnB0fDE3MDk
 #https://vips-livecdn.fptplay.net/NTY2MTMxfHRoZXRoYW8xMV92aGxzLnNtaWx8ZnB0fDE3MDk2Mzg3NDV8MTE4LjY4LjI0My4yMjh8MmMxNmM1MjgzZTYzYzYyMDhiMjk3NTlhMTM2M2E0Y2U/epzsport/thethao11_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png", ON Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtvcab16/index.m3u8
 #http://tinyurl.com/4bdpn4rf
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
