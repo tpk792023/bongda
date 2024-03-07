@@ -16,8 +16,8 @@ http://is.am/5mpp/intro
 #http://is.am/5mb6
 #https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/434241f6caa226fb2e6be4a8a2a92049/1709818303340/livetv/enc2/598281cd530f02879d1ab499d3134106/playlist.m3u8
-#https://api.wintv.me/vtvcab3/index.m3u8
+#https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/434241f6caa226fb2e6be4a8a2a92049/1709818303340/livetv/enc2/598281cd530f02879d1ab499d3134106/playlist.m3u8
+https://api.wintv.me/vtvcab3/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/bedb37103fc67d10e2379e5481886491?
 #http://is.am/5nzj
 #http://gg.gg/bduong3
@@ -53,13 +53,14 @@ https://vips-livecdn.fptplay.net/NTY2MTMxfHRoZXRoYW8wNl92aGxzLnNtaWx8ZnB0fDE3MDk
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/df8645355704ca61fad43af3ddca101b/1709820589046/livetv/enc2/9897d7cbdbb24d2838d3aa8fd1c56444/playlist.m3u8
-#https://api.wintv.me/vtvcab16/index.m3u8
+https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
-https://helvid.321watch.com/video/m3u8/202403/33be07df7f05/playlist.m3u8|https://helvid.com
-#https://api.wintv.me/vtvcab6/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 #EXTGRP:SCTV
