@@ -190,15 +190,15 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@caysd1/playlist.m3u8|Refer
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 12 [BLV: Giàng A Phọt]
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 13 [BLV:Chu Du]
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@chuduhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
+https://live-caheo.cdnlive.pro/live/stream_1_a86e6@chuduhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 14 [BLV:Xi Măng]
 https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@ximangsd1/chunklist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 15 [BLV:Thợ Xây]
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv|Referer=https://watch.rkplayer.xyz
+https://live-caheo.cdnlive.pro/live/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 16 [BLV:Cà Chuối]
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv|Referer=https://watch.rkplayer.xyz
+https://live-caheo.cdnlive.pro/live/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 17 [BLV:Páo]
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv|Referer=https://watch.rkplayer.xyz
+https://live-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 17 [BLV:Mõn]
 https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@momsd1/playlist.m3u8|Referer=https://watch.rkplayer.xyz
 
