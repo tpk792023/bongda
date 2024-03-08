@@ -114,6 +114,8 @@ http://is.am/5n8p
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS cliptv
 http://is.am/5n8s
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Nhà đài]
+https://acdn.p2pcdn.xyz/xoilac/channel25.m3u8?auth_key=3000001709873161-0-0-5aad809739dd3647b8105d59d5f137d1
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Nhà đài]
 https://acdn.p2pcdn.xyz/xoilac/channel38.m3u8?auth_key=3000001709872774-0-0-b1b59314fd955fdea1a5613e33884a7d
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Alex]
 https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001709872594-0-0-6cf81d0d6932e758b1bc0946b32fa50b
