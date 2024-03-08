@@ -134,6 +134,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel39.m3u8?auth_key=3000001709894224-0-0-2d59
 https://acdn.p2pcdn.xyz/xoilac/channel38.m3u8?auth_key=3000001709894327-0-0-cbd09315a4147569cb2409be0d9e7710
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Nhà đài]
 https://acdn.p2pcdn.xyz/xoilac/channel47.m3u8?auth_key=3000001709894409-0-0-be795f99eba464b9d77b03d64afed333
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Nhà đài]
+https://acdn.p2pcdn.xyz/xoilac/channel60.m3u8?auth_key=3000001709895351-0-0-875f07a6b5cea7fece6fe42c34e25816
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: Alex]
 https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001709872594-0-0-6cf81d0d6932e758b1bc0946b32fa50b
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: RMNO]
@@ -156,6 +158,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001709894687-0-0-ae67
 https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001709894888-0-0-7d7d61a2cffe778bc090e04cdb5b60d0
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: MON]
 https://acdn.p2pcdn.xyz/xoilac/channel20.m3u8?auth_key=3000001709895001-0-0-df8a3d90677424f66468f0900650f098
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: ASTRA]
+https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001709895237-0-0-5b8c8172a0ecd9c1a086cf7adbc2ca2c
 
 
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Nhà Đài1]
