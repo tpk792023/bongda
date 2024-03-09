@@ -176,6 +176,9 @@ https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001709899059-0-0-fbf3
 https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001709967954-0-0-a24aae464e85f59a9ecc201f0d8a65f5
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV:HELLO]
 https://acdn.p2pcdn.xyz/xoilac/channel22.m3u8?auth_key=3000001709981490-0-0-211a8564bbab40f6b219242aa4deeb6a
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV:HENRY]
+https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001709981643-0-0-f3f34ad7e370186fa041d6e556eca7e0
+
 
 
 
