@@ -52,7 +52,7 @@ https://vips-livecdn.fptplay.net/NTY2MTMxfHRoZXRoYW8wNl92aGxzLnNtaWx8ZnB0fDE3MDk
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/1ef917113c1d41bf60eb024f4bc266dc/1710048697574/livetv/enc2/9897d7cbdbb24d2838d3aa8fd1c56444/playlist.m3u8
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/306770ef633e978151ba6c32af1621e1/1710048697574/livetv/enc2/9897d7cbdbb24d2838d3aa8fd1c56444/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
