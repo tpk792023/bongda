@@ -172,6 +172,9 @@ https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001709898287-0-0-cff1
 https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001709898842-0-0-cebfaa71808398134b725246b476782d
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: MAX]
 https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001709899059-0-0-fbf3a601473294a4f755d42d20e352ae
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV:KEVIN]
+https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001709967954-0-0-a24aae464e85f59a9ecc201f0d8a65f5
+
 
 
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://img.upanh.tv/2023/11/10/logo-rakhoi-tv-truc-tiep-bong-da.png", RA KHOI 01 [BLV: Nhà Đài1]
