@@ -166,7 +166,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel35.m3u8?auth_key=3000001710248200-0-0-2590
 https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001709872594-0-0-6cf81d0d6932e758b1bc0946b32fa50b
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: RMNO]
 https://acdn.p2pcdn.xyz/xoilac/channel12.m3u8?auth_key=3000001709873417-0-0-24dd01628740b681f90ff451db259b04
-#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: HD TUA
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: HD TUA]
 https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001709873577-0-0-7b54d99dc4a12517aba809307cd27c80
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV: LUCKY]
 https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001709880675-0-0-902d57535fa3e309e2c71dccd2bea990
@@ -202,6 +202,9 @@ https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001709967954-0-0-a24a
 https://acdn.p2pcdn.xyz/xoilac/channel22.m3u8?auth_key=3000001709981490-0-0-211a8564bbab40f6b219242aa4deeb6a
 #EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV:HENRY]
 https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001709981643-0-0-f3f34ad7e370186fa041d6e556eca7e0
+#EXTINF:-1 group-title="SPORT [Xôi Lạc]" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", XOILAC [BLV:POLO]
+https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001710256899-0-0-acb4da80837997095bff173773659cc9
+
 
 
 
