@@ -36,7 +36,7 @@ https://api.wintv.me/vtvcab3/index.m3u8
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD
-http://42.114.172.79:4022/udp/225.1.1.28:30120
+https://vips-livecdn.fptplay.net/MTIwNzMxMDN8dGhldGhhbzAxX3ZobHMuc21pbHxmcHR8MTcxMDU3ODI5OXw0Mi4xMTUuMjA5LjEzNXw2MzBmMTJlZjg1ODhkMmFjODdjNmIzNmE0ZGIyOTMzYQ/epzsport/thethao01_vhls.smil/playlist.m3u8
 #http://113.22.25.101:4022/udp/225.1.1.28:30120
 
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="SAOKETV" tvg-logo="https://staticcdn-sk.mediastation.live/template/logo2.png",AFC U20 NỮ ASIAD 
