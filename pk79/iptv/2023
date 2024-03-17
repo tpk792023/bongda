@@ -64,7 +64,7 @@ https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/695ef58ecaa3e1f44510de8b090a8dba/1710760547770/livetv/enc2/1d9523afd88e6e43fa49c2a7ee181fbc/playlist.m3u8
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/7774cb5863d0a6c62af4025a0702b4ef/1710763617709/livetv/enc2/1d9523afd88e6e43fa49c2a7ee181fbc/playlist.m3u8
 #https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
