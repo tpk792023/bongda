@@ -17,7 +17,7 @@ http://is.am/5mpp/intro
 #https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/434241f6caa226fb2e6be4a8a2a92049/1709818303340/livetv/enc2/598281cd530f02879d1ab499d3134106/playlist.m3u8
-https://hni-fpt-002-livecdn-vthcm-vnd.vieon.vn/d3f0e11dd0c288af733688966ad8655f/1710760523655/livetv/enc2/49a416d60c7f00fc6ee84091c30e85e2/playlist.m3u8
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/8d6ae56b8f3fcc079159841e3ed169d9/1710903883807/livetv/enc2/49a416d60c7f00fc6ee84091c30e85e2/playlist.m3u8
 #https://api.wintv.me/vtvcab3/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/bedb37103fc67d10e2379e5481886491?
 #http://is.am/5nzj
@@ -65,12 +65,12 @@ http://is.am/5mnt/VTVCab16
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/7774cb5863d0a6c62af4025a0702b4ef/1710763617709/livetv/enc2/1d9523afd88e6e43fa49c2a7ee181fbc/playlist.m3u8
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/c607804d9a3a47f58abc0e04efa5618e/1710903973723/livetv/enc2/1d9523afd88e6e43fa49c2a7ee181fbc/playlist.m3u8
 #https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/1baff06e498da420ab33bf32b627e28c/1710760363486/livetv/enc2/598281cd530f02879d1ab499d3134106/playlist.m3u8
-https://api.wintv.me/vtvcab6/index.m3u8
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/c2dc8fb9c2ae9124d536fea8c4ad0098/1710903931582/livetv/enc2/598281cd530f02879d1ab499d3134106/playlist.m3u8
+#https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 #EXTGRP:SCTV
