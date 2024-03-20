@@ -41,6 +41,9 @@ http://cdn.hoangai.vn:8000/thapcam/IOalfY5
 #EXTINF:-1 group-title="⚽Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03/2024 - 22:00 - Vietnam u23 vs Kyrgyzstan u23
 http://bentre5.hoangai.vn:8082/vebo.php?id=abNQMZF
 
+#EXTINF:-1 group-title="⚽Vòng Loại WC 2026" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 21/03/2024 - 20:30 - Vietnam  vs Indonesia
+http://str1.cvtv.xyz/vtv5?token=live
+
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="SAOKETV" tvg-logo="https://staticcdn-sk.mediastation.live/template/logo2.png",AFC U20 NỮ ASIAD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/MTIwNzMxMDN8dmluaGxvbmcxX3ZobHMuc21pbHxmcHR8MTcxMDU3OTU4N3w0Mi4xMTUuMjA5LjEzNXxkYmJkN2JiYjExZTVjNDdiMzM5M2ZlOGJkNjNiMmYxZA/epzhd2/vinhlong1_vhls.smil/playlist.m3u8
