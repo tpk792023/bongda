@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_xem_tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
+#EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
 http://is.am/5mpp/intro
-#EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_xem_tivi.jpg",XEMTVHAY
+#EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",XEMTVHAY
 #https://vod-integrated-cdn.onlive.vn/v101/hls/save/afreeca/station/2023/0926/16/1695721411960534.mp4/original/both/playlist.m3u8
 #http://stream.vthanhtivi.pw:5080/LiveApp/streams/sport1.m3u8
 #http://gg.gg/17jjrf
@@ -35,13 +35,13 @@ http://tth.vn/onsport
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
-#EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://button.leodocnao.com/wp-content/uploads/2023/09/xoilaczcov1.png", 20/03-22:00 | VN U23 vs TajikistanU23 [BLV: MAX]
+#EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03-22:00 | VN U23 vs TajikistanU23 [BLV: MAX]
 https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001710653045-0-0-2f271e9beab088519314553505e82681
 
 #EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03-22:00 | VN U23 vs TajikistanU23
 http://cdn.hoangai.vn:8000/thapcam/IOalfY5
 
-#EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03/2024 - 22:00 - VN u23 vs TajikistanU23
+#EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03- 22:00| VN u23 vs TajikistanU23
 http://bentre5.hoangai.vn:8082/vebo.php?id=abNQMZF
 
 #EXTINF:-1 group-title="⚽ Vòng Loại WC 2026" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 21/03/2024 - 20:30 - VN vs Indonesia
