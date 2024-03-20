@@ -35,17 +35,16 @@ http://tth.vn/onsport
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
-#EXTINF:-1 tvg-id="kênh trực tiếp" group-title="Cúp Asian Nữ " tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD
-https://vips-livecdn.fptplay.net/MTIwNzMxMDN8dGhldGhhbzAxX3ZobHMuc21pbHxmcHR8MTcxMDU3ODI5OXw0Mi4xMTUuMjA5LjEzNXw2MzBmMTJlZjg1ODhkMmFjODdjNmIzNmE0ZGIyOTMzYQ/epzsport/thethao01_vhls.smil/playlist.m3u8
-#http://113.22.25.101:4022/udp/225.1.1.28:30120
+#EXTINF:-1 group-title="⚽ Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03-22:00 | Vietnam U23 vs TajikistanU23
+http://cdn.hoangai.vn:8000/thapcam/IOalfY5
+
+#EXTINF:-1 group-title="⚽Giao Hữu U23" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 20/03/2024 - 22:00 - Vietnam u23 vs Kyrgyzstan u23
+http://bentre5.hoangai.vn:8082/vebo.php?id=abNQMZF
 
 #EXTINF:-1 tvg-id="kênh trực tiếp" group-title="SAOKETV" tvg-logo="https://staticcdn-sk.mediastation.live/template/logo2.png",AFC U20 NỮ ASIAD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/MTIwNzMxMDN8dmluaGxvbmcxX3ZobHMuc21pbHxmcHR8MTcxMDU3OTU4N3w0Mi4xMTUuMjA5LjEzNXxkYmJkN2JiYjExZTVjNDdiMzM5M2ZlOGJkNjNiMmYxZA/epzhd2/vinhlong1_vhls.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="kênh trực tiếp 1" group-title="FPT Play" tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD 1
-https://vips-livecdn.fptplay.net/NTY2MTMxfHZpbmhsb25nMV92aGxzLnNtaWx8ZnB0fDE3MDk1OTc4OTZ8MTE4LjY4LjI0My4yMjh8ODNlNThkZmQ0MWU2YmZmZGZjZjA0MWE4N2UyNGY5ZDA/epzhd2/vinhlong1_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="kênh trực tiếp 1" group-title="FPT Play" tvg-logo="https://images.fptplay.net/media/OTT/notification/2024/03/03/14h45_afc03-03-2024_11g07-44.jpg",AFC U20 NỮ ASIAD 2
 https://vips-livecdn.fptplay.net/NTY2MTMxfHRoZXRoYW8wNl92aGxzLnNtaWx8ZnB0fDE3MDk3MjAxMTF8MTE4LjY4LjI0My4yMjh8ZWFkNGM5OWM0NzIzOWYzNDFlZWRmNjc3OWNjN2MzYmY/epzsport/thethao09_vhls.smil/chunklist_b1800000.m3u8
