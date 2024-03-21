@@ -36,17 +36,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonl
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
-
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", Live 🔴 60 phút - Pakistan 0️⃣ vs 2️⃣ Jordan
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=itmltKb
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", Live 🔴 50 phút - Australia 1️⃣ vs 0️⃣ Lebanon
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=WtIhwjI
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", Live 🔴  - Japan 0️⃣ vs 0️⃣ Korea DPR
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=XQSx2jt
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", Live 🔴 24 phút - Zambia U20 0️⃣ vs 0️⃣ Zimbabwe U20
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=AAFcz0B
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 18:00 - South Korea vs Thailand
-http://bentre5.hoangai.vn:8080/thapcam/play.php?id=buKRMXz
+#EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03 - 20:30 -INDONESIA - VIỆT NAM | VÒNG LOẠI 2 WORLD CUP 2026
+http://is.am/5ncv
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 18:30 - Myanmar vs Syrian
 http://bentre5.hoangai.vn:8080/vebo/play.php?id=XbWIwY8
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 19:00 - Hong Kong vs Uzbekistan
