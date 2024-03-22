@@ -140,16 +140,7 @@ http://is.am/5n85
 http://is.am/5n4w
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS vieon
 http://is.am/5n88
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE cliptv
-http://is.am/5n8q
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION cliptv
-http://is.am/5n8r
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 cliptv
-http://is.am/5n8x
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 cliptv
-http://is.am/5n8p
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS cliptv
-http://is.am/5n8s
+
 
 #EXTINF:-1 tvg-id="" tvg-name="WWE FHD" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3No61HPU8ItZXvSgiXaS4EmEQWYvwQwwa9uG0KPnGtSGmomSxk6GPFuH7bSOLaBi1EHY5MqT7fwT7G8Y4Z8M7MgEQLCGMoqHck3uS-ocrKcXW9OsH-d4SCVrb14xfLDNcM.png" group-title="WWE",WWE FHD 
 http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5PgE1HKpv5wPbFO4A_YR9mn/ts 
@@ -167,43 +158,6 @@ https://fast2.gmnc.xyz/29107_hd/29107_hd@720p.m3u8
 https://play.stream-keycdn.com/live/thomohot.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagacuadao.tv)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagacuadao.tv)
 https://play.stream-keycdn.com/live/cuadao.m3u8
-
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2024/03/15/juventus---genoa_1710479351053.jpg",18:30-17/03. Juventus - Genoa - (HTV Thể Thao)
-https://ott3.khanggtivi.xyz/source/167-98-187-58/UXRwaTVrNEdndXdPTDErSWkxaVZVa0hoRFlmUmhlWkh4T0NsaHZzUEZoZ05IbVNIMGtjQWZiaFpsYk1udUdPdVoyd3MrclNvZFc1YWZhZkdvVm1tRlE9PQ==/1710679474/fptplay/htvc-the-thao.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2024/03/15/verona---ac-milan_1710479480185.jpg",21:00-17/03. Verona - AC Milan - (HTV Thể Thao)
-https://ott3.khanggtivi.xyz/source/167-98-187-58/UXRwaTVrNEdndXdPTDErSWkxaVZVa0hoRFlmUmhlWkh4T0NsaHZzUEZoZ05IbVNIMGtjQWZiaFpsYk1udUdPdVoyd3MrclNvZFc1YWZhZkdvVm1tRlE9PQ==/1710679474/fptplay/htvc-the-thao.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2024/03/15/as-roma---sassuolo_1710479565567.jpg",00:00-18/03. AS Roma - Sassuolo - (HTV Thể Thao)
-https://ott3.khanggtivi.xyz/source/167-98-187-58/UXRwaTVrNEdndXdPTDErSWkxaVZVa0hoRFlmUmhlWkh4T0NsaHZzUEZoZ05IbVNIMGtjQWZiaFpsYk1udUdPdVoyd3MrclNvZFc1YWZhZkdvVm1tRlE9PQ==/1710679474/fptplay/htvc-the-thao.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2024/03/15/atalanta---fiorentina_1710479653764.jpg",00:00-18/03. Atalanta - Fiorentina - (HTV9 HD)
-https://ott3.khanggtivi.xyz/source/167-98-187-58/UXRwaTVrNEdndXdPTDErSWkxaVZVa0hoRFlmUmhlWkh4T0NsaHZzUEZoZ05IbVNIMGtjQWZiaFpsYk1udUdPdVoyd3MrclNvZFc1YWZhZkdvVm1tRlE9PQ==/1710679474/fptplay/htv9-hd.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2024/03/15/inter-milan---napoli_1710479752528.jpg",02:45-18/03. Inter Milan - Napoli - (HTV9 HD)
-https://ott3.khanggtivi.xyz/source/167-98-187-58/UXRwaTVrNEdndXdPTDErSWkxaVZVa0hoRFlmUmhlWkh4T0NsaHZzUEZoZ05IbVNIMGtjQWZiaFpsYk1udUdPdVoyd3MrclNvZFc1YWZhZkdvVm1tRlE9PQ==/1710679474/fptplay/htv9-hd.m3u8
-
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/7b/b0/08/84/4c/c8/7b084-lchelseavsleicestercitytktfacup-ceeshow-mytv.jpg", 19:40-17/03. Chelsea vs Leicester City - Tứ kết FA Cup - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/802/playlist.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/47/73/33/30/0a/a3/47330-lmanchesterutdvsliverpooltktfacup-ceeshow-mytv.jpg", 21:45-17/03. Manchester Utd vs Liverpool - Tứ kết FA Cup - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/804/playlist.m3u8
-#https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/804/playlist.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/64/46/6d/d3/39/9f/646d3-lgiivthuttnghpcagewarriors2023skin168-ceeshow-mytv.jpg", 04:00-17/03. Giải võ thuật Tổng hợp Cage Warriors 2023 - Sự kiện 168 - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/803/playlist.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/70/0e/ef/f1/11/17/70ef1-lmanchestercityvsnewcastleutdtktfacup-ceeshow-mytv.jpg", 00:25-17/03. Manchester City vs Newcastle Utd - Tứ kết FA Cup - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/804/playlist.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/93/3e/ee/eb/bc/c8/93eeb-lwolvesvscoventrycitytktfacup-ceeshow-mytv.jpg", 19:05-16/03. Wolves vs Coventry City - Tứ kết FA Cup - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/804/playlist.m3u8
-
-#EXTINF:-1 group-title="Live sự kiện - Bóng đá" tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/59/9c/c8/83/3a/ac/59c83-lgiivthuttnghpcagewarriors2023skin167-ceeshow-mytv.jpg", 04:06-16/03. Giải võ thuật Tổng hợp Cage Warriors 2023 - Sự kiện 167 - MyTV
-https://cfcdn.khanggtivi.xyz/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTA2OTQ4MDB9.olVbsU88JR6cdetzkvzirLJBA9gRTjM5nti2-LeEc8Q/1710677643/803/playlist.m3u8
-
 
 
 
@@ -697,13 +651,13 @@ https://hqth.me/syufM|Referer=http://sctvonline.vn/index.m3u8
 https://hqth.me/0chCU|Referer=http://sctvonline.vn/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="http://xemtv.tvhayhd.com/uploads/tv_image/sctv15.png",SCTV15 HD
-https://hqth.me/yuXV|Referer=http://sctvonline.vn/index.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="📺 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
 https://hqth.me/Vb6AX|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="📺 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
-https://hqth.me/vu4s|Referer=http://sctvonline.vn/index.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/index.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="📺 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
 https://hqth.me/P9VJD|Referer=http://sctvonline.vn/index.m3u8
