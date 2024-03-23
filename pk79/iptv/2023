@@ -109,7 +109,7 @@ https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/index.m3u8
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
 #EXTGRP:SCTV
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 
 
