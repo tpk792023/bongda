@@ -14,10 +14,10 @@ http://is.am/5mpp/intro
 #https://github.com/tpk792023/thvl1/raw/b5d4d056096cd99f0d1589f6255eb84e7584e1d6/vinhlong1hd.m3u8
 #http://is.am/5mb7
 #http://is.am/5mb6
-https://edge1.laotv.la/live/VTV1HD/index.m3u8
 #https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 #https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-Agent:Mozilla/5.0 (Linux; Android 14; SM-A236E Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+https://edge1.laotv.la/live/VTV1HD/index.m3u8
 #http://tth.vn/onsport
 #https://api.wintv.me/vtvcab3/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/bedb37103fc67d10e2379e5481886491?
