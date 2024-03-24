@@ -93,7 +93,7 @@ http://is.am/5mnt/vtvcab16
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cfcdn.khanggtivi.xyz/play/76848f69-e53a-40bb-9205-a050f63a0659/eFZUL0c3bUxOMTF4eDV3QTNXSGlPa2tuQUgvVmk5Mndqa3p3Q3JzQ0VmVk9jeENZSW5xb1FZSW1sN1RpQThrdDQ5akhMSlcxUmY3b25ySUsvMUhIbk5xZVRxeGtpUzkvLzRtY2NFMExwK1U9/on-football/chunklist_b5128000.m3u8
+https://cfcdn.khanggtivi.xyz/play/76848f69-e53a-40bb-9205-a050f63a0659/eFZUL0c3bUxOMTF4eDV3QTNXSGlPcFo2bTBwSEpWT0dyTnNMVTBXTkRtRStxRnBCUk1CMDRWNUNKbjQ2c00rckJ1WTh1VUw5NmdEUzk1V3o3aXBvVHVqbEZRWHFsck5XcmFqUDdxZ2NwZVE9/on-football/chunklist_b5128000.m3u8
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", On sports news
