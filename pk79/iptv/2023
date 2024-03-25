@@ -17,7 +17,8 @@ http://is.am/5mpp/intro
 #https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 #https://vod.nethubtv.vn/vod/avg/ngay_xua_anh_noi/playlist.m3u8
 #EXTVLCOPT:http-user-Agent:Mozilla/5.0 (Linux; Android 14; SM-A236E Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
-https://edge2.laotv.la/live/VTV1HD/index.m3u8
+http://is.am/5nzj
+#https://edge2.laotv.la/live/VTV1HD/index.m3u8
 #https://by.tn/k-1laotv
 #http://tth.vn/onsport
 #https://api.wintv.me/vtvcab3/index.m3u8
@@ -39,7 +40,8 @@ https://edge2.laotv.la/live/VTV1HD/index.m3u8
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="https://i.ytimg.com/vi/SMOFRXCDgWk/maxresdefault.jpg", 21/03 - 20:30 -INDONESIA - VIỆT NAM | VÒNG LOẠI 2 WORLD CUP 2026
-https://edge2.laotv.la/live/VTV1HD/index.m3u8
+http://is.am/5nzj
+#https://edge2.laotv.la/live/VTV1HD/index.m3u8
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 18:30 - Myanmar vs Syrian
 http://bentre5.hoangai.vn:8080/vebo/play.php?id=XbWIwY8
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 19:00 - Hong Kong vs Uzbekistan
