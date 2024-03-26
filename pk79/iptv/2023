@@ -112,7 +112,8 @@ https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
 #EXTGRP:SCTV
 #EXTVLCOPT:http-User-Agent:Mozilla/5.0 (Linux; Android 14; SM-A236E Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
-https://edge1.laotv.la/live/VTV1HD/index.m3u8
+https://ctrl.laotv.la/live/VTV1HD/index.m3u8
+#https://edge1.laotv.la/live/VTV1HD/index.m3u8
 #https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
