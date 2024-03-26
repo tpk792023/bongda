@@ -43,8 +43,10 @@ http://is.am/5nzj
 http://is.am/5nd8
 #http://is.am/5nzj
 #https://edge2.laotv.la/live/VTV1HD/index.m3u8
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 21/03/2024 - 18:30 - Myanmar vs Syrian
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=XbWIwY8
+#EXTINF:-1  tvg-id="" tvg-name="26/03 - 18:00 - Việt Nam - Indonesia" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGr80lSwRGJVQK3jvqAsAI5KbHbtKIUhJJVN7iNQV9Hg9j8miBaOajyKB-OsPTqnUNT.jpg" group-title="FPT Live Premium",26/03 - 18:00 - Việt Nam - Indonesia
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5M7J0f_OGR7jbzpTPH4A0SG/ts
+#EXTINF:-1  tvg-id="" tvg-name="26/03 - 18:00 - Việt Nam - Indonesia: Bình luận cảm xúc" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGrsChKmkBnzXni_fCU5zBY7L3FafvQEU6NNgF55XgrhA9WWR4zW5H5KV2MGW6eN7zU.jpg" group-title="FPT Live Premium",26/03 - 18:00 - Việt Nam - Indonesia: Bình luận cảm xúc
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5Oha2G_W-j9vQ4seVYKgXzG/ts
 #EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa576eafbce762079f7d1f77fca1c5cc2.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2d8fe42de2f833581faa077f788329fa.png" group-title="⚽ Gà vàng TV",26/03-15:45 | FIFA World Cup qualification (AFC) | Lebanon vs Australia
 http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=6d616c8dd1704b5bb8aeb9672b1faeb7
 #EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff00b6379b82a515a9478b6e58b783de9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F72fb22982ac69857cb2432f13589836e.png" group-title="⚽ Gà vàng TV",26/03-16:30 | FIFA World Cup qualification (AFC) | Bangladesh vs Palestine
