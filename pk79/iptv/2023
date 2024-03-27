@@ -44,50 +44,37 @@ https://code.vthanhtivi.pw/ytlive/get.php?v=GXYmy6rKg2I
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="http://img.youtube.com/vi/aCen3FrWfIU/default.jpg", 26/03 - 19:00 -VIỆT NAM-INDONESIA| VÒNG LOẠI 2 WORLD CUP 2026
 http://1.52.17.2:8379/udp/225.1.1.27:30120
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="http://img.youtube.com/vi/aCen3FrWfIU/default.jpg", 26/03 - 19:00 -VIỆT NAM-INDONESIA| VÒNG LOẠI 2 WORLD CUP 2026
-https://code.vthanhtivi.pw/ytlive/get.php?v=aCen3FrWfIU
-#http://is.am/5nzj
+#https://code.vthanhtivi.pw/ytlive/get.php?v=aCen3FrWfIU
+http://is.am/5nzj
 #https://edge2.laotv.la/live/VTV1HD/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="26/03 - 18:00 - Việt Nam - Indonesia" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGr80lSwRGJVQK3jvqAsAI5KbHbtKIUhJJVN7iNQV9Hg9j8miBaOajyKB-OsPTqnUNT.jpg" group-title="FPT Live Premium",26/03 - 18:00 - Việt Nam - Indonesia
-http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5M7J0f_OGR7jbzpTPH4A0SG/ts
-#EXTINF:-1  tvg-id="" tvg-name="26/03 - 18:00 - Việt Nam - Indonesia: Bình luận cảm xúc" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGrsChKmkBnzXni_fCU5zBY7L3FafvQEU6NNgF55XgrhA9WWR4zW5H5KV2MGW6eN7zU.jpg" group-title="FPT Live Premium",26/03 - 18:00 - Việt Nam - Indonesia: Bình luận cảm xúc
-http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5Oha2G_W-j9vQ4seVYKgXzG/ts
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa576eafbce762079f7d1f77fca1c5cc2.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2d8fe42de2f833581faa077f788329fa.png" group-title="⚽ Gà vàng TV",26/03-15:45 | FIFA World Cup qualification (AFC) | Lebanon vs Australia
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=6d616c8dd1704b5bb8aeb9672b1faeb7
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff00b6379b82a515a9478b6e58b783de9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F72fb22982ac69857cb2432f13589836e.png" group-title="⚽ Gà vàng TV",26/03-16:30 | FIFA World Cup qualification (AFC) | Bangladesh vs Palestine
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=dc217ec287e140ce91af28395593bf93
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0c620bcfc2a979fe9f22acbe0019f276.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcc40d06ff0a16a793d066dbfa2917bab.png" group-title="⚽ Gà vàng TV",26/03-18:00 | FIFA World Cup qualification (AFC) | Philippines vs Iraq
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=22eb5ecbfb864d84877ec0bb3f8fc4db
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F14b75c2d38d88b747c19de8ea5509d16.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F628f16b29939d1b060af49f66ae0f7f8.png" group-title="⚽ Gà vàng TV",26/03-19:00 | FIFA World Cup qualification (AFC) | Vietnam vs Indonesia
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=2b7e907361444b27959deeaf137ce159
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F445ef89e5620a875f7c2eaddd033e39d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbfa20d86a59044ef90a4609dde03985c.png" group-title="⚽ Gà vàng TV",26/03-19:00 | FIFA World Cup qualification (AFC) | China vs Singapore
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c196be2641b3482e9f9f6fbfc2f3294d
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6581bc34692022be4c21d98778e33df0.png" group-title="⚽ Gà vàng TV",26/03-19:30 | FIFA World Cup qualification (AFC) | Thailand vs South Korea
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=06dc715edfa64e369287b78c49a34551
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe7083a9eae16cbc27fa133d41212e4c8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa4cc3a85c7cda24dd3e028306403697d.png" group-title="⚽ Gà vàng TV",26/03-20:30 | FIFA World Cup qualification (AFC) | India vs Afghanistan
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=0390ffe461ee41739a98476103460ab8
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9e5b39abe0157cedd650c0d0c5cbd767.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F500739868ce9f7f0857260404eab4d41.png" group-title="⚽ Gà vàng TV",26/03-21:00 | FIFA World Cup qualification (AFC) | Malaysia vs Oman
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=08ce7c8552044e40a1cfb941d45ec762
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Feffa571bc3ca24dd7d1f2513bf849a52.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fdf321578b4f5f132345d2e6b39743126.png" group-title="⚽ Gà vàng TV",26/03-21:30 | FIFA World Cup qualification (AFC) | Uzbekistan vs Hong Kong
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=b8e7856ec94042f9a04e4c6ac1a0b358
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcf372cbe6eae54c6a6dfb3ebbcdc3404.png" group-title="⚽ Gà vàng TV",26/03-22:00 | FIFA World Cup qualification (AFC) | Tajikistan vs Saudi Arabia
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=06246c9af857481f981807d5af613e63
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F366c97caa1e66d39a0c21edb8fdc9caf.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F56de534cf589f6d0ca09630db803ba00.png" group-title="⚽ Gà vàng TV",26/03-22:00 | FIFA World Cup qualification (AFC) | Turkmenistan vs Iran
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a28a66c961414b9cb4f5be0fe85e1123
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fba472bb6eb37e333549df040175df856.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff40723ed94042ea9ea36bfb5ad4157b2.png" group-title="⚽ Gà vàng TV",27/03-02:45 | International Friendly | England vs Belgium
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=1b995379fdc04ca9928be163a26ea73f
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5856c2f4a854359864b18f9aed3f8874.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffb9d433088a21464e7d634c4e190b31a.png" group-title="⚽ Gà vàng TV",27/03-02:45 | International Friendly | Germany vs Netherlands
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=871102dee945478e9bc1e33aea6bc962
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe4ba31fba036a999321d5460f7f2d1d1.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd92d7ec47187a662aacda2d4b4c7628e.png" group-title="⚽ Gà vàng TV",27/03-02:45 | International Friendly | Slovenia vs Portugal
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=e29a5ff776c244e0aa31a341cadb71ff
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8eb4b4c01bf3375828c5494c2f6e7685.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F76b605730bd2606bbcb290f1244dac9a.png" group-title="⚽ Gà vàng TV",27/03-03:00 | International Friendly | France vs Chile
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=16b1a59845d749f7a549dfa07d5271ad
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe5858bd2ddb51631a85b1af22f5a1a6a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F99bf3d153d4bf67d640051a1af322505.png" group-title="⚽ Gà vàng TV",27/03-03:30 | International Friendly | Spain vs Brazil
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=08fae8db4d7b49fdacbb3bf06ec76e0f
 #EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4d58ff44865806627c28fb2a96705515.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1fb0f48eaeeab5946deb0073f4163eac.png" group-title="⚽ Gà vàng TV",27/03-16:15 | AUS QPS | Brisbane City vs Peninsula Power
 http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=5bc21ff409994f94a658884833a8ed39
 #EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9dba7dd85210f84da34eeb14d36ff703.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3f6e6d54bd71ae415d1a48d1c85a6f48.png" group-title="⚽ Gà vàng TV",27/03-18:30 | Uzbekistan Pro League | Shurtan Guzor vs FK Do stlik Tashkent
 http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a92158d016144761999b6d29285c1a4d
-
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F55cba4a142146e2cdc317d21eb4daf76.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F66307444901ddb38c881129b7ea0105e.png" group-title="⚽ Gà vàng TV",27/03-20:30 | Indonesian Liga 1 | Arema FC vs Persebaya Surabaya
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=0f4cfb80723d42e6bcfbaa0510beaf58
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F76db1148a0e8a7c8e98ab05814cab691.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fda85ffb03146e72ce9928729dcabda51.png" group-title="⚽ Gà vàng TV",27/03-20:30 | Indonesian Liga 1 | Dewa United FC vs Persita Tangerang
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=8e293c513b1749548315214de0065c47
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5e1cb7e437d1b5307ffa0d84406078ea.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fdfc3179c9b23cd62563e0d5e0a98b961.png" group-title="⚽ Gà vàng TV",27/03-21:00 | Czech National Football League | SK Slovan Varnsdorf vs Lisen
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a06f8c4e6f5a4262b91fcec58d8d1a2f
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F484ae7b7bd74733551f909e8bcf6f43f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0e08556fee244f2041c83b0bf53cc6d9.png" group-title="⚽ Gà vàng TV",28/03-00:45 | UEFA Women's Champions League | Lyon (w) vs Benfica (w)
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=ac87033272bb4d3c9eaab7c7b34581f4
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffde877e452f79f75955ad4e4f326c654.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F608b8974ad512df1293585825bef3cee.png" group-title="⚽ Gà vàng TV",28/03-01:45 | Saudi Arabia Division 1 | Al Najma(KSA) vs Al Bukayriyah
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c3202131200f4750820963eb063a5a68
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0b168930b9b0cf269daf08a53170b27a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2ba1d865f307bd026d498ddb53f300ad.png" group-title="⚽ Gà vàng TV",28/03-02:00 | Uruguay Primera Division | Club Atletico Progreso vs Rampla Juniors FC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=88dcf6bb171f444fbed03dad83dc5d33
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe9e2307866d939fc857fb0a31fa89bd7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fecfc2fc9c6b819398b09dc3d112b13fe.png" group-title="⚽ Gà vàng TV",28/03-03:00 | UEFA Women's Champions League | Chelsea FC (w) vs Ajax Amsterdam (w)
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=467e929b29034c729b5249545fccc422
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe5a69a56e6bbbc8a5b5cd04f46c2f14f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Facdc998a1318c8f39e36c8d233b83263.png" group-title="⚽ Gà vàng TV",28/03-15:00 | Australia W-League | Central Coast Mariners women vs Western United FC Women
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a74fad15e5c048129a42c3d89d99cf0b
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6b405ecc6f6e3bc63a6bac0b36724231.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F714a6a87f097c2b3a1a9a46d34677fe6.png" group-title="⚽ Gà vàng TV",28/03-17:00 | Indian League Division 1 | Delhi FC vs Shillong Lajong FC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=9444a961c96649afbc78aac070cb9fb0
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2f708e7217b3b424208814e781d9e9fa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faaa1753870ce0f683472254290f207d8.png" group-title="⚽ Gà vàng TV",28/03-18:00 | Azerbaijan First Division | Qaradag Lokbatan vs Irəvan FK
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=42f1dff6cb2f49cc9bbd04fd5d9335fc
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8e885efa9074bfc9147e849e126c70e1.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F837cf9a178940067578b7343018e003a.png" group-title="⚽ Gà vàng TV",28/03-20:30 | Indonesian Liga 1 | Persib Bandung vs Bhayangkara Presisi Indonesia FC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=8ca2b494a34642309d81c7aa397fe306
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0851c8b7fadde83f3330e2b8164837a8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0be01f850871a2273ca03ce2d085ab47.png" group-title="⚽ Gà vàng TV",28/03-21:30 | Indian League Division 1 | Aizawal FC vs Churchill Brothers
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=55ef0a7214494513869d61586d455693
 
 #EXTINF:-1 group-title="⚽ Vòng Loại WC 2026" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 21/03/2024 - 20:30 - VN vs Indonesia
 http://str1.cvtv.xyz/vtv5?token=live
