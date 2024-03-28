@@ -38,8 +38,9 @@ https://edge1.laotv.la/live/K+Sport1/index.m3u8
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
-#EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="http://img.youtube.com/vi/GXYmy6rKg2I/default.jpg", Bóng Chuyền
-https://code.vthanhtivi.pw/ytlive/get.php?v=GXYmy6rKg2I
+#EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="http://img.youtube.com/vi/qFjs1oIQ5Eo/default.jpg", XS3MIEN
+https://code.vthanhtivi.pw/ytlive/get.php?v=qFjs1oIQ5Eo
+#https://code.vthanhtivi.pw/ytlive/get.php?v=GXYmy6rKg2I
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP BOLERO" tvg-logo="http://img.youtube.com/vi/RF_4t3tHzys/default.jpg", Nhạc vàng song ca hay nhất|Giọng Ca Để Đời
 https://code.vthanhtivi.pw/ytlive/get.php?v=RF_4t3tHzys
 #http://1.52.17.2:8379/udp/225.1.1.27:30120
