@@ -38,6 +38,12 @@ https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
+https://ctrl.laotv.la/live/K+Sport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
+https://ctrl.laotv.la/live/K+Sport2/index.m3u8
+
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="http://img.youtube.com/vi/qFjs1oIQ5Eo/default.jpg", XS3MIEN
 https://code.vthanhtivi.pw/ytlive/get.php?v=qFjs1oIQ5Eo
 #https://code.vthanhtivi.pw/ytlive/get.php?v=GXYmy6rKg2I
