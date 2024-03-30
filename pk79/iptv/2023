@@ -291,7 +291,8 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+https://s.net.vn/Khichtivi-code-SCTV15-HD?/playlist.m3u8
+#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.tvb.com/homepage/TVB_homepage.png" , TVB Vietnam 
