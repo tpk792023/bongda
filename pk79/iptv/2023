@@ -285,7 +285,7 @@ http://tth.vn/onsportplus
 https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
+http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
 #https://edge1.laotv.la/live/VTV1HD/index.m3u8
 #https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
