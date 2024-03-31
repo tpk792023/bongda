@@ -45,7 +45,7 @@ http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5OjCXM
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
 https://ctrl.laotv.la/live/K+Sport1/index.m3u8
-#http://is.am/5nzj
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
 
