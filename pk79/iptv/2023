@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
 http://is.am/5mpp/intro
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",XEMTVHAY
-http://is.am/5nec|Referer=https://edge2.laotv.la/index.m3u8
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5OjCXMvBRyv0HxamdewJuGo/ts
+#http://is.am/5nec|Referer=https://edge2.laotv.la/index.m3u8
 #https://code.vthanhtivi.pw/ytlive/get.php?v
 #https://vod-integrated-cdn.onlive.vn/v101/hls/save/afreeca/station/2023/0926/16/1695721411960534.mp4/original/both/playlist.m3u8
 #http://stream.vthanhtivi.pw:5080/LiveApp/streams/sport1.m3u8
@@ -43,7 +44,8 @@ http://is.am/5nec|Referer=https://edge2.laotv.la/index.m3u8
 #http://is.am/5jq4/k+cine
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
-https://ctrl.laotv.la/live/K+Sport1/index.m3u8
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5OjCXMvBRyv0HxamdewJuGo/ts
+#https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 #http://is.am/5nzj
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
@@ -60,32 +62,42 @@ https://code.vthanhtivi.pw/ytlive/get.php?v=RF_4t3tHzys
 http://is.am/5ndu
 #https://edge2.laotv.la/live/VTV1HD/index.m3u8
 
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F19eac99666880f936bd720c441b9de94.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F45c9647899b8bf2fb6f988c6c33b964c.png" group-title="⚽ Gà vàng TV",30/03-18:30 | Italian Serie A | Napoli vs Atalanta
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=16cc57941e644bf88759ce383d663ce9
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1052568046c27c694918905cbf403d7c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2b2b28e6c4df2ae30a8b8eb02570a7b6.png" group-title="⚽ Gà vàng TV",30/03-19:15 | V League | Viettel FC vs Quang Nam
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=95563720573e4967a304976b2c44071c
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5dbe320855e3ba772dbce54f940c6fa5.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd71ebda5c7fbca9093a1c2978c46f619.png" group-title="⚽ Gà vàng TV",30/03-19:30 | English Premier League | Newcastle United vs West Ham United
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=e77bd7276f704f13af31448f3c14cfea
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0ec2f07e39b8f7b8139684093c894c88.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F42396d18444156e640c37476c2b41b93.png" group-title="⚽ Gà vàng TV",30/03-22:00 | English Premier League | Nottingham Forest vs Crystal Palace
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=e348312d28f44206be16f5aec224a75d
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F008437c93501963e6ca1b2450994007a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F29982511f1ea861967c3e6478d6a8a68.png" group-title="⚽ Gà vàng TV",30/03-22:00 | English Premier League | Sheffield United vs Fulham
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=0ec9dd05ee904b47b67bada5836dbd0e
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff5da8fc911a5ca139398448d6969da71.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F14315e11e533d5ed96c17e428dd83a58.png" group-title="⚽ Gà vàng TV",30/03-22:00 | English Premier League | Tottenham Hotspur vs Luton Town
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=b1945225051a43b99dc48e6b13aeb666
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F240b30d333c97d293752ab7afd77ccd6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9b3b7e98f46629b484ca74d46c2c8951.png" group-title="⚽ Gà vàng TV",30/03-22:00 | English Premier League | Bournemouth AFC vs Everton
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=04591a492c5b4858adafc3581f8bdaab
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb365ad0e85e2b1bcbf63f7a0f2f70a79.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1091af5aa9fc4a30411785954edb9159.png" group-title="⚽ Gà vàng TV",30/03-22:00 | English Premier League | Chelsea vs Burnley
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c9a955a20f9046f2b9357b1d612aef4b
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4c7e35b5134ebf4d92bdf0e88519e077.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbbfacbdbe67705172c6414d7e9c21b58.png" group-title="⚽ Gà vàng TV",31/03-00:30 | Bundesliga | Bayern Munchen vs Borussia Dortmund
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c8a6d1e9a581438a93268c20d074dc08
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc3316a83fde00ade0ad467114188a992.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5759932ca2512c6701d86dfbd58380a7.png" group-title="⚽ Gà vàng TV",31/03-00:30 | English Premier League | Aston Villa vs Wolves
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=706def42bb654adea77906febf202fbd
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4f6fea88e1b872608f8f333c2de8b1d4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffdf42dd465f17ab274ec8a74cb4ef4e2.png" group-title="⚽ Gà vàng TV",31/03-02:00 | Saudi Professional League | Al Nassr FC vs Al-Tai
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=26cf223c2a9343c4801331cbebe7c6f5
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff378eb1ea04e53999b89051aa3244de6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Feff9bb17ae54a84068dfc3b9f1f628cb.png" group-title="⚽ Gà vàng TV",31/03-03:00 | Spanish La Liga | FC Barcelona vs Las Palmas
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=fe493386c554468080180ae539429af6
-#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F60f1c7788be3148a370dbf59f914abfe.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3d7cc3c41c8531284a6426c47ae66b91.png" group-title="⚽ Gà vàng TV",31/03-03:00 | English Premier League | Brentford vs Manchester United
-http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=314e1ac7aae2473a9b51b810a2b40ac3
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F828246d73cf19f1411e191be18cdee4c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0636fa6adc628b663bad30b92e1aa319.png" group-title="⚽ Gà vàng TV",31/03-15:30 | Austrian 2.Liga | SV Stripfing Weiden vs First Wien 1894
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=5bd35547b6184a658a6f3b4e0a730cf4
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F83dd94c5ca68e8f9a3980f036afcb511.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0b8f7079227a08f73cfb80e72d1851c0.png" group-title="⚽ Gà vàng TV",31/03-17:00 | V League | Hong Linh Ha Tinh vs Becamex Binh Duong
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=51e908f738e64e8395b2235145662f18
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb8810fbe6cadfc28a6ef30468514a20e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff3dde7370cf875e4e657b4331b1b4a31.png" group-title="⚽ Gà vàng TV",31/03-18:00 | V League | CLB Thanh Hoa vs Cong An Nhan Dan
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=7ae34a6ecb6c48c6a78c29f398b1ebba
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa248831fa3a3440dcea40259aee63bcf.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff6933e7473028ac53711584207f4b8ab.png" group-title="⚽ Gà vàng TV",31/03-18:00 | V League | CLB Binh DInh vs Ho Chi Minh City FC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a75d74252323437ea3be1854bfec0de2
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F67d250a4f10a0793f49f54bd4c74d77e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3073500c390e431e7954fdc09c077b72.png" group-title="⚽ Gà vàng TV",31/03-19:15 | V League | Hanoi FC vs Nam Dinh FC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=22d6d1db85fb43e186224b00f64aa4ed
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fff8991853f7aabce7cb66f09cda0c58e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3e8ecd181a512ff663ff60ec85c8bed1.png" group-title="⚽ Gà vàng TV",31/03-20:00 | French Ligue 1 | Nice vs Nantes
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=5c256b63801c42fc94d09f8d295c0482
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0a11e714b8ccb1e287520857bd6cf01c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9b43a690d5a09f1e319f036821e8e1d3.png" group-title="⚽ Gà vàng TV",31/03-20:00 | English Premier League | Liverpool vs Brighton Hove Albion
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=b66448cdf9d24dc6b8524be782d9de30
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F006ce259b33ef72dd5570cfa8dc39f38.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F018e260ad68bdad741c61e3171c4c608.png" group-title="⚽ Gà vàng TV",31/03-21:15 | Spanish La Liga | Girona vs Real Betis
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=221f8ac6181041e0b9797de8b6277b04
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbfdd500484330d63a723cbc396df762c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F65ee743f20fa7db286fdeda4d33c6980.png" group-title="⚽ Gà vàng TV",31/03-22:30 | Bundesliga | VfB Stuttgart vs 1. FC Heidenheim
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=1b1380707eef4db791a13221e5116502
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc4a6528a2ee147b99c9885ef24385a4e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2122445133f0eeeecbb61fe49fb69022.png" group-title="⚽ Gà vàng TV",31/03-22:30 | English Premier League | Manchester City vs Arsenal
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=6d20d9a727b14cc7b0eed57ee689c915
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffffbebaa7a0c3c2db7e8d637a3de1811.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.png" group-title="⚽ Gà vàng TV",31/03-23:30 | Spanish La Liga | Deportivo Alavés vs Real Sociedad
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a723e6cf348f4aed9fd748846cc6a425
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F54b45952992ecffc33601a8eecc9881e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0ee6b6e8c21275bb7a79e64c4baf90c1.png" group-title="⚽ Gà vàng TV",01/04-00:00 | Portuguese Primera Liga | Vizela vs Casa Pia AC
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=b19099dc84774da186a2d87e4e917c78
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F51e1cbc15a7ae90e176b1c1dfb096928.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fda5997a60373a56628e684ae3c16f2c8.png" group-title="⚽ Gà vàng TV",01/04-00:30 | Bundesliga | VfL Bochum vs SV Darmstadt 98
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c13957165720481db9c129e6bc6a7f97
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa450173b3d636ba2c86d3d7c5bdc4026.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3b720f181ce9993f9422d276acf7b292.png" group-title="⚽ Gà vàng TV",01/04-01:45 | French Ligue 1 | Marseille vs Paris Saint Germain (PSG)
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=a3b8b298c9e84a37a2a7d3746c194c6f
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb2a647479bd175eb2e61d89f2317e7de.png" group-title="⚽ Gà vàng TV",01/04-02:00 | Spanish La Liga | Real Madrid vs Athletic Bilbao
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=93c883b2562a49e3a24dab6be9746dfd
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8354706ee0d510dbb1cfe5cec7319227.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F948e7850b0d6bd6224a99a647e24e29b.png" group-title="⚽ Gà vàng TV",01/04-17:30 | Italian Serie A | Bologna vs Salernitana
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=c7ce35ff306742ac90c702c74d6dcdd4
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F37aec5cf94aa5fa74a012b5413d52d06.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F86e6dba4cdc98b1dda1d25ea7d9eebfe.png" group-title="⚽ Gà vàng TV",01/04-18:30 | English Football League Championship | Leicester City vs Norwich City
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=f0de4e060db64553805f8ce8044994b3
+#EXTINF: tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F629b6f983d0ca3c33f2c4b50b3449314.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F625f6bad4acc37546d2f2373b89b7c89.png" group-title="⚽ Gà vàng TV",01/04-19:00 | Danish Superliga | FC Copenhagen vs Brondby IF
+http://bentre5.hoangai.vn:8082/weblau/gavang/play.php?id=e348ad0a35524395b886cce5896df273
 
 
 #EXTINF:-1 group-title="⚽ Vòng Loại WC 2026" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 21/03/2024 - 20:30 - VN vs Indonesia
