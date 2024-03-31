@@ -43,6 +43,19 @@ http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5OjCXM
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
 
+#EXTINF:-1  tvg-id="ksport1hd" tvg-name="KP1 ( Live Event )" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KP1 ( Live Event )
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5MQihgfQwumZCtsW-Cazrka/ts
+#EXTINF:-1  tvg-id="ksport2hd" tvg-name="KP2 ( Live Event )" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KP2 ( Live Event )
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5M_eW894-BgSSVk2q85pmDi/ts
+#EXTINF:-1  tvg-id="kcinehd" tvg-name="KC" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KC
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5PBsaldjEcD1EsBN7XbQfvQ/ts
+#EXTINF:-1  tvg-id="kaction" tvg-name="KA" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KA
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5MD9qVviIxZICZ3aZ4r7xU0/ts
+#EXTINF:-1  tvg-id="kkidshd" tvg-name="KK" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KK
+http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5NPJQ7wNYzRaLapdTIuCJ3w/ts
+
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
 https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 
