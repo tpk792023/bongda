@@ -3,7 +3,8 @@
 http://is.am/5mpp/intro
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",XEMTVHAY
 #EXTVLCOPT:http-user-agent=dovietsy
-https://edge2.laotv.la/live/TSport2/index.m3u8
+https://api.wintv.me/vl4/index.m3u8
+#https://edge2.laotv.la/live/TSport2/index.m3u8
 #http://103.82.39.241:3333/KPLUS?token=1
 #http://is.am/5nec|Referer=https://edge2.laotv.la/index.m3u8
 #https://code.vthanhtivi.pw/ytlive/get.php?v
