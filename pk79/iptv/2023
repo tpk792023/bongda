@@ -3,7 +3,7 @@
 http://is.am/5mpp/intro
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",XEMTVHAY
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://xem.li/VTV7SCTV||Referer=http://sctvonline.vn/index.m3u8
+https://xem.li/VTV7SCTV||Referer=http://sctvonline.vn/
 #https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210107/haihoailinhchitai_traianhhunggaithuyenquyen/2f4f8745eecda15d67c250afeac11adc.smil/chunklist_b4628000.m3u8
 #https://xem.li/Binhduong2
 #EXTVLCOPT:http-user-agent=dovietsy
