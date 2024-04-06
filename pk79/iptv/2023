@@ -105,32 +105,44 @@ http://183.80.118.93:2023/udp/225.1.1.31:30120
 http://is.am/5ndu
 #https://edge2.laotv.la/live/VTV1HD/index.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F43&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F7642", 04/05-18:35 | Beijing Guoan vs Shanghai Port giải Chinese Super League
-https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.LYXFbBHmoDTF.m3u8
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F136&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F1117", 04/06-19:00 | Nurnberg vs Holstein Kiel giải German Bundesliga 2
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.765qxJGknpIO.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F44&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F40", 04/05-18:35 | Qingdao Manatee vs Shandong Taishan giải Chinese Super League
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F1076&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F2760", 04/06-18:00 | SV Elversberg vs Magdeburg giải German Bundesliga 2
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.OKKhLlnRV63j.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F26536&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F21227", 04/05-19:00 | Nantong Zhiyun vs Meizhou Hakka giải Chinese Super League
-https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.G3aPMRrteP3Q.m3u8
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F160&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F175", 04/06-18:00 | Hamburger SV vs Kaiserslautern giải German Bundesliga 2
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.pKQN8JcBKrS0.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F9826&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F9825", 04/05-19:15 | Hai Phong vs Thanh Hoa giải V.League 1
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F35&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F26", 04/06-18:30 | Crystal Palace vs Manchester City giải English Premier League
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.ccjaC5B3M2zL.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F9826&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F9825", 04/05-19:15 | Hai Phong vs Thanh Hoa giải V.League 1
-https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.GSb6sT9bgFn1.m3u8
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F34&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F68", 04/06-18:30 | Norwich City vs Ipswich Town giải England Championship
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.EI6xEHA2k8kH.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="https://i.imgur.com/aDOnwUu.gif", 04/05-21:00 | FC Goa vs Hyderabad FC giải Indian Super League
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F35&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F26", 04/06-18:30 | Crystal Palace vs Manchester City giải English Premier League
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.LYXFbBHmoDTF.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F7239&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F9912", 04/05-21:15 | Kuruvchi Bunyodkor vs Dinamo Samarqand giải Uzbek League
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F35&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F26", 04/06-18:30 | Crystal Palace vs Manchester City giải English Premier League
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.uUJoPS7tBXYs.m3u8
+
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F8371&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F88", 04/06-20:30 | Heidenheimer vs Bayern Munchen giải German Bundesliga
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.OrKYggDiAj0G.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F4434&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F6731", 04/05-21:30 | UTA Arad vs FC Botosani giải Romania Liga I
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F172&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F13201", 04/06-20:30 | SC Freiburg vs RB Leipzig giải German Bundesliga
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.pKQN8JcBKrS0.m3u8
+
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F490&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F95", 04/06-20:30 | FC Koln vs VfL Bochum giải German Bundesliga
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.ZZmUERUYLcuF.m3u8
 
-#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F15436&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F1038", 04/05-21:30 | Rudes vs ZNK Osijek giải Croatia 1.Division
-https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.uUJoPS7tBXYs.m3u8
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F31&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F46", 04/06-21:00 | Everton vs Burnley giải English Premier League
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.OKKhLlnRV63j.m3u8
+
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F372&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F348", 04/06-21:00 | Luton Town vs AFC Bournemouth giải English Premier League
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.JfEKAXXCkQuw.m3u8
+
+#EXTINF:-1 group-title="Đêm Nay Live" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F52&m2=https%3A%2F%2Fimage.demnaylive.xyz%2Ffootball%2Fteam%2F62", 04/06-21:00 | Wolves vs West Ham United giải English Premier League
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.LYXFbBHmoDTF.m3u8
 
 #EXTINF:-1 group-title="⚽ Vòng Loại WC 2026" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/image.png", 21/03/2024 - 20:30 - VN vs Indonesia
 http://str1.cvtv.xyz/vtv5?token=live
