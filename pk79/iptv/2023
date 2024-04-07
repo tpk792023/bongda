@@ -55,7 +55,8 @@ https://xem.li/HTV7HD
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",XEM NGOAI HANG ANH
 http://103.82.39.241:3333/KPLUS?token=1
 
-
+#EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/hdrirZY.png",[BLV PHANTOM]
+https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.765qxJGknpIO.m3u8?player_version=1.20.0
 #EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/hdrirZY.png",[BLV VICTOR]
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.EI6xEHA2k8kH.m3u8?player_version=1.20.0
 #EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/hdrirZY.png",[BLV HIP]
