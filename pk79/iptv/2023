@@ -52,6 +52,11 @@ https://xem.li/HTV7HD
 #http://gg.gg/Karaoke-hat-voi-cong-linh
 #http://gg.gg/17lwcd
 #http://is.am/5jq4/k+cine
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",XEM NGOAI HANG ANH
+http://103.82.39.241:3333/KPLUS?token=1
+
+
+
 
 #EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/aDOnwUu.gif",[BLV LEO]
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.GSb6sT9bgFn1.m3u8?player_version=1.20.0
@@ -76,15 +81,15 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/
 #EXTINF:-1 tvg-id="PHIM LẺ" tvg-name="PHIM LẺ"  group-title="🌲PHIM LẺ🌲" tvg-logo="https://i.imgur.com/Pk23i0T.gif",Tân Lộc Đỉnh Ký
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tramp-1992-hongkong-lt/ada39ef7f89b0906775e42741960c26b.smil/chunklist_b3992000.m3u8
 
-#EXTINF:-1  tvg-id="ksport1hd" tvg-name="KP1 ( Live Event )" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KP1 ( Live Event )
+#EXTINF:-1  tvg-id="ksport1hd" tvg-name="K+1 ( Live)" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+1 ( Live )
 http://is.am/5ngm
-#EXTINF:-1  tvg-id="ksport2hd" tvg-name="KP2 ( Live Event )" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KP2 ( Live Event )
+#EXTINF:-1  tvg-id="ksport2hd" tvg-name="K+2 ( Live)" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport",K+2 ( Live)
 http://is.am/5ngn
-#EXTINF:-1  tvg-id="kcinehd" tvg-name="KC" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KC
+#EXTINF:-1  tvg-id="kcinehd" tvg-name="K+CINE" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+CiNE
 http://is.am/5ngx
-#EXTINF:-1  tvg-id="kaction" tvg-name="KA" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KA
+#EXTINF:-1  tvg-id="kaction" tvg-name="K+ACTION" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+ACTION
 http://is.am/5ngp
-#EXTINF:-1  tvg-id="kkidshd" tvg-name="KK" tvg-logo="http://iptv.hoangai.vn:8080/images/P7zgU1Z1t7Q7hN2ycDDeCu9Dka3zggRfO8E4wXb7pJXI1AhPN5PYwRy6We0PW6MY.png" group-title="KP sport CN",KK
+#EXTINF:-1  tvg-id="kkidshd" tvg-name="K+KIDS" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+KIDS
 http://is.am/5ngq
 
 
