@@ -186,7 +186,8 @@ https://tth.vn/onsportnews
 #https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="03.VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", On sports +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://tth.vn/onsportplus
+https://tthd.site/vtvcab6/index.m3u8
+#http://tth.vn/onsportplus
 
 #EXTINF:-1 tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 #EXTGRP:SCTV
