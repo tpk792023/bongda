@@ -61,6 +61,17 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Refe
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",XEM NGOAI HANG ANH 1
 https://livevina.16m50.tv/0e43b45cf4b82f5c1c6d6f520d6cf95b/1712511000899/channel1/index.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-name="10/04 - 01:10 - Arsenal FC - Bayern Munich" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGr2STL5-CBB6Px7PS53xZ1lxHRQtaeCe5-c_05L0YOkA3rqFsyzlD3B3EKUVuVJkBanxtn8fqqpzb3BtL2e2gsNQ.jpg" group-title="FPT Live Premium",10/04 - 01:10 - Arsenal FC - Bayern Munich
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu6p5YdicTYIcN2fzJ0DEM5ngtoyOC-a6UnjxvLcVgV3_/ts
+#EXTINF:-1  tvg-id="" tvg-name="10/04 - 01:10 - Arsenal FC - Bayern Munich: Bình luận cảm xúc" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGr2STL5-CBB6Px7PS53xZ1lxHRQtaeCe5-c_05L0YOkA2Y1eej7wqibXL9F4jkw77oKP72LG4VS-Kl0rm-4jTA0w.jpg" group-title="FPT Live Premium",10/04 - 01:10 - Arsenal FC - Bayern Munich: Bình luận cảm xúc
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RQfcUvDC6JLeu9tVMsd3bu_/ts
+#EXTINF:-1  tvg-id="" tvg-name="10/04 - 01:10 - Real Madrid - Manchester City" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGrHdHFKNKcnvpLqrAzxMb2sFvdPieC8UWr3qlrKcIWVGthFfUJL_FkGWxnygbSYU_7lRmSeEEpqaemMR0AYHxYIQ.jpg" group-title="FPT Live Premium",10/04 - 01:10 - Real Madrid - Manchester City
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RRcoBicdQPOtuduA62k9W4z/ts
+#EXTINF:-1  tvg-id="" tvg-name="10/04 - 01:10 - Real Madrid - Manchester City: Bình luận cảm xúc" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGrHdHFKNKcnvpLqrAzxMb2sFvdPieC8UWr3qlrKcIWVGsKV6XFJIt8zZuio-fnQTy_T7ctDjEwbT6WZOSMiyfIiA.jpg" group-title="FPT Live Premium",10/04 - 01:10 - Real Madrid - Manchester City: Bình luận cảm xúc
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RQztp4stELb_b2RfCs_QeYi/ts
+
+
+
 #EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/hdrirZY.png",[BLV RIO]
 https://bb5a5ede16d0.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.891377067807.channel.pKQN8JcBKrS0.m3u8?player_version=1.20.0
 #EXTINF:-1 group-title="🌲Đêm nay live 🌲" tvg-logo="https://i.imgur.com/hdrirZY.png",[BLV PHANTOM]
