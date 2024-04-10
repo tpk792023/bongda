@@ -248,31 +248,6 @@ http://is.am/5neb|Referer=http://sctvonline.vn/index.m3u8
 #EXTVLCOPT:http-user-agent=ANTmedia 
 http://vnoo.net/link/rX6Cri7
 
-EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE vieon
-http://is.am/5n86
-EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE mytv
-http://is.am/5n4j
-EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION mytv
-http://is.am/5n4k
-EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION vieon
-http://is.am/5n87
-
-EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 vieon
-http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
-http://tinyurl.com/k-sport1-tv360
-http://is.am/5nzj
-EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 mytv
-http://is.am/5n89
-
-EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 vieon
-http://is.am/5n4v
-EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 mytv
-http://is.am/5n85
-EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS mytv
-http://is.am/5n4w
-EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS vieon
-http://is.am/5n88
-
 
 #EXTINF:-1 tvg-id="WWE.ca" group-title="👊| Nhóm kênh WWE" tvg-logo="http://cdn.hoangai.vn:7070/images/eGqxKQFYBvdaZ1gtJTHXn9IvSjMJQdA4J3jzSXMGzKRaddzti1F6FNl5KPOVN6njw2NUA1cYyIzWyM8sfjkYkQ.png", WWE Network HD
 http://cdn.hoangai.vn:8000/acc/play.php?id=300492&user=phuockhaihh79&pass=SmQHjF4XS6
