@@ -248,38 +248,44 @@ http://is.am/5neb|Referer=http://sctvonline.vn/index.m3u8
 #EXTVLCOPT:http-user-agent=ANTmedia 
 http://vnoo.net/link/rX6Cri7
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE vieon
+EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE vieon
 http://is.am/5n86
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE mytv
+EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE mytv
 http://is.am/5n4j
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION mytv
+EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION mytv
 http://is.am/5n4k
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION vieon
+EXTINF:-1 tvg-id="kaction" group-title="🍭| K+ m3u8" tvg-logo="https://i.imgur.com/Eg76sU1.jpg", K+ ACTION vieon
 http://is.am/5n87
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 vieon
+EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 vieon
 http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
-#http://tinyurl.com/k-sport1-tv360
-#http://is.am/5nzj
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 mytv
+http://tinyurl.com/k-sport1-tv360
+http://is.am/5nzj
+EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 mytv
 http://is.am/5n89
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 vieon
+EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 vieon
 http://is.am/5n4v
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 mytv
+EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 mytv
 http://is.am/5n85
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS mytv
+EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS mytv
 http://is.am/5n4w
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS vieon
+EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ m3u8" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS vieon
 http://is.am/5n88
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE FHD" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3No61HPU8ItZXvSgiXaS4EmEQWYvwQwwa9uG0KPnGtSGmomSxk6GPFuH7bSOLaBi1EHY5MqT7fwT7G8Y4Z8M7MgEQLCGMoqHck3uS-ocrKcXW9OsH-d4SCVrb14xfLDNcM.png" group-title="WWE",WWE FHD 
-http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5PgE1HKpv5wPbFO4A_YR9mn/ts 
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3MKWnPfOpadxvC10BZ8-Jr6st1M-Ah8bdW0R7PSu16W_GdAf78vzB1eY1EFHWcXFFc3q9r5pOdlLPErW4rvqXkZnyN-AivsAJS_lHZ2IEqyv8nAG1OqkG7JJ9S6ze-R0-4.png" group-title="WWE",WWE Network 
-http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5MzPcTYIEHQGqEzBtRvsJqW/ts 
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Live WWE Network" tvg-logo="http://iptv.hoangai.vn:8080/images/dACmAI74R3VGMX6yEwlRW4ymnG7A_GS0xXQvxEjhr3No61HPU8ItZXvSgiXaS4EmEQWYvwQwwa9uG0KPnGtSGmomSxk6GPFuH7bSOLaBi1EHY5MqT7fwT7G8Y4Z8M7MgEQLCGMoqHck3uS-ocrKcXW9OsH-d4SCVrb14xfLDNcM.png" group-title="WWE",Peacock Live WWE Network 
-http://iptv.hoangai.vn:8080/play/mKQMtr46337D6rf_BDJXAbmlxMsY1Q8RKQ41W-2Rj5PFDF_Y71s4q5kJd2_Mfyu1/ts
+#EXTINF:-1 tvg-id="WWE.ca" group-title="👊| Nhóm kênh WWE" tvg-logo="http://cdn.hoangai.vn:7070/images/eGqxKQFYBvdaZ1gtJTHXn9IvSjMJQdA4J3jzSXMGzKRaddzti1F6FNl5KPOVN6njw2NUA1cYyIzWyM8sfjkYkQ.png", WWE Network HD
+http://cdn.hoangai.vn:8000/acc/play.php?id=300492&user=phuockhaihh79&pass=SmQHjF4XS6
+
+#EXTINF:-1 tvg-id="WWEChannel.au" group-title="👊| Nhóm kênh WWE" tvg-logo="http://cdn.hoangai.vn:7070/images/Mdbnce0bA1v4qqSMwbXiDXYOgbDVzrXEd7CkoX4R_riUr-FHNtbHOS6FBnbxacZjQLiD9KdwxA9ROZ2idm6jsQ.png", WWE FHD
+http://cdn.hoangai.vn:8000/acc/play.php?id=1864036&user=phuockhaihh79&pass=SmQHjF4XS6
+
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" group-title="👊| Nhóm kênh WWE" tvg-logo="https://officialpsds.com/imageview/7y/2n/7y2njk_large.png?1606174114", Peacock Live | WWE Network
+http://cdn.hoangai.vn:8000/acc/play.php?id=1803031&user=phuockhaihh79&pass=SmQHjF4XS6
+
+#EXTINF:-1 tvg-id="WWE.za" group-title="👊| Nhóm kênh WWE" tvg-logo="https://iptvboss.xyz/logos/South_Africa/WWEChannel.za.png", WWE Channel
+http://cdn.hoangai.vn:8000/acc/play.php?id=2089576&user=phuockhaihh79&pass=SmQHjF4XS6
+
 #EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagathomo.live)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
 https://now.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagasv88.com)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
