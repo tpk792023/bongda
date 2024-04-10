@@ -88,6 +88,9 @@ http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RRcoBi
 http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RQztp4stELb_b2RfCs_QeYi/ts
 
 
+
+#EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV CLARK]
+https://live6.xiangmirong.com/live/73081701.flv?auth_key=1712697900-0-243937-0d68cc0d4423801702b7936ba88ae697
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV NINO]
 https://live6.xiangmirong.com/live/71426314.flv?auth_key=1712636700-0-249426-5a1ebebf39eb7d89fbe1234ccc5e7ea5
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV KAYN]
