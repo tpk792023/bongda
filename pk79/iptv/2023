@@ -87,6 +87,11 @@ http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RRcoBi
 #EXTINF:-1  tvg-id="" tvg-name="11/04 - 01:10 - Paris Saint-Germain - FC Barcelona: Bình luận cảm xúc" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKU-wsUtc5S0QEOgP490PGrKACPzN6FgJkewIWXyAqOamQee3VeDbsLPbeJUHFthg0q-ctDpQ6fEm_bmiA6haNvInnHX3fSct2ADxmWNrHqOlOCi9eOvq8MPXK-_9M3Z4I.jpg" group-title="FPT Live Premium",11/04 - 01:10 - Paris Saint-Germain - FC Barcelona: Bình luận cảm xúc
 http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu_uwPHxGPcwRhYI39xo2_RQztp4stELb_b2RfCs_QeYi/ts
 
+
+
+
+#EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV COZY]
+https://live6.xiangmirong.com/live/87379114.flv?auth_key=1712697902-0-247835-c65a6ae4fa5c84a8923b5df697064351
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV IVAN]
 https://live6.xiangmirong.com/live/08552895.flv?auth_key=1712636700-0-247838-36a1b7146ad3b9787274cc1b9aabfe3d
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV CLARK]
