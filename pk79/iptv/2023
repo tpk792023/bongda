@@ -171,7 +171,8 @@ http://is.am/5nvs
 #https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
-https://ctrl.laotv.la/live/K+Sport2/index.m3u8
+http://is.am/5nvt
+#https://ctrl.laotv.la/live/K+Sport2/index.m3u8
 
 #EXTINF:-1 group-title="🔴 TRỰC TIẾP" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSOuRdisPx-Uwx33-wYzG8kIRttC9ZUEDXu3aMH=s355-c-k-c0x00ffffff-no-rj", XS MIỀN BẮC
 http://is.am/5nvj
