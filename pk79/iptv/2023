@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
-http://14.226.177.254:4025/rtp/232.84.3.152:10882
+http://dinhdong.ddns.net:13579/udp:/225.1.2.249:30120
+#http://14.226.177.254:4025/rtp/232.84.3.152:10882
 #https://tth.vn/THVL1HD
 #http://is.am/5nvy
 #https://tth.vn/LK-QUAN-NUA-KHUYA-TPK79
