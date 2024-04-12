@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
-https://tth.vn/THVL1HD
+http://14.226.177.254:4025/rtp/232.84.3.152:10882
+#https://tth.vn/THVL1HD
 #http://is.am/5nvy
 #https://tth.vn/LK-QUAN-NUA-KHUYA-TPK79
 #http://is.am/5mpp/intro
