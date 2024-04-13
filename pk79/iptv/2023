@@ -19,7 +19,8 @@ http://tth.vn/THVL3FHD
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LFSEBg7.jpeg",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
 http://tth.vn/THVL4FHD
 
-
+#EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/N5vNGkET-r8/default.jpg", LÂM ĐỒNG - AN GIANG|15h30 13/04
+http://is.am/5nj6
 
 #EXTINF:-1 tvg-id="XEMTIVI" group-title="📺 TV" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",XEMTVHAY
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
