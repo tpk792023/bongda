@@ -13,7 +13,7 @@ https://tth.vn/THVL1HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6LfmfLe.jpeg",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
 http://tth.vn/THVL3FHD
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
