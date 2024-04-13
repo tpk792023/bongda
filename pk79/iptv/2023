@@ -182,8 +182,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tra
 
 
 #EXTINF:-1  tvg-id="ksport1hd" tvg-name="K+1 ( Live)" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+1 ( Live )
-http://is.am/5nv4
-#http://is.am/5ngm
+#http://is.am/5nv4
+http://is.am/5ngm
 #EXTINF:-1  tvg-id="ksport2hd" tvg-name="K+2 ( Live)" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport",K+2 ( Live)
 http://is.am/5ngn
 #EXTINF:-1  tvg-id="kcinehd" tvg-name="K+CINE" tvg-logo="https://i.imgur.com/aDOnwUu.gif" group-title="K+sport ",K+CiNE
