@@ -25,7 +25,7 @@ http://tth.vn/THVL4FHD
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/gRIm5DsoSbw/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
 http://is.am/5nk4
 
-EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 5" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 5
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 5" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 5
 http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu3oQj9M5mRX3UHlkqQVDdVUiJun-3KynYYbd3MqZVQRZ/ts
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 7" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 7
 http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu706XPWTtXpa9fv9CgHqewSCIz89op5pATC--e9AyeAD/ts
