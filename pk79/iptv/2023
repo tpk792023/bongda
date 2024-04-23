@@ -16,6 +16,9 @@ http://is.am/5nmq
 #https://tth.vn/LK-QUAN-NUA-KHUYA-TPK79
 #http://is.am/5mpp/intro
 
+#EXTINF:-1 group-title="🔴YOUTUBE" tvg-logo="http://img.youtube.com/vi/xe0SzVan-JQ/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
+https://tth.vn/LK-RUMBA-BOLERO-MTĐ
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 4) ExoPlayerLib/2.13.3
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
