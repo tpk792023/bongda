@@ -32,6 +32,10 @@ http://tth.vn/THVL4FHD
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/gRIm5DsoSbw/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
 https://tth.vn/TRỰC-TIẾP-TÂN-CỔ
 
+#EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://i.imgur.com/6s6sIqT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",VTV5 FPT
+http://home1.tranducanh.com:4444/udp/225.1.1.131:30120
+
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.upanh.org/2024/04/21/1000006521-removebg-previewf872305bb2f60e78.png",VTV5 HD 
 https://tth.vn/VTV5FHD1
 #https://tth.vn/VTV5FHD-VIEON
