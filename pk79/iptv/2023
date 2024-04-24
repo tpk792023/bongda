@@ -61,10 +61,16 @@ https://tth.vn/TT-SỰ-KIỆN
 https://tth.vn/TT-SỰ-KIỆN-MỚI-LIVE
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 22
 https://tth.vn/TT-SỰ-KIỆN-KHI-LIVE
-#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 3
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 3" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 3
 http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.27:30120
-#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 4
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 4" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 4
 http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.28:30120
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 2" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 2
+http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.12:30120
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 6" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 6
+http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.31:30120
+
+
 
 #EXTINF:-1 group-title="NGOẠI HẠNG ANH" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",02:00 24/04|🔴 Trực tiếp ASENAL vs CHELSEA
 #https://143151680.global.cdnfastest.com/live/tonggiang.m3u8
