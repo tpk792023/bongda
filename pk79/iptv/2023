@@ -33,9 +33,6 @@ http://tth.vn/THVL3FHD
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LFSEBg7.jpeg",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
 http://tth.vn/THVL4FHD
 
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|referrer=http://sctvonline.vn/
 
 
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/gRIm5DsoSbw/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
@@ -64,6 +61,10 @@ https://tth.vn/TT-SỰ-KIỆN
 https://tth.vn/TT-SỰ-KIỆN-MỚI-LIVE
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 22
 https://tth.vn/TT-SỰ-KIỆN-KHI-LIVE
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 3
+http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.27:30120
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 4
+http://alantienvietfpt.duckdns.org:7777/udp/225.1.1.28:30120
 
 #EXTINF:-1 group-title="NGOẠI HẠNG ANH" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",02:00 24/04|🔴 Trực tiếp ASENAL vs CHELSEA
 #https://143151680.global.cdnfastest.com/live/tonggiang.m3u8
