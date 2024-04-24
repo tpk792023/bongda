@@ -33,6 +33,8 @@ http://tth.vn/THVL3FHD
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LFSEBg7.jpeg",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
 http://tth.vn/THVL4FHD
 
+#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | Truyền Hình Thành Phố Cần Thơ
+http://home1.tranducanh.com:4444/udp/225.1.1.132:30120
 
 
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/gRIm5DsoSbw/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
