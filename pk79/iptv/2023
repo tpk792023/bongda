@@ -33,6 +33,11 @@ http://tth.vn/THVL3FHD
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LFSEBg7.jpeg",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
 http://tth.vn/THVL4FHD
 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
+
+
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/gRIm5DsoSbw/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
 https://tth.vn/TRỰC-TIẾP-TÂN-CỔ
 
