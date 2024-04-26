@@ -72,6 +72,8 @@ http://home1.tranducanh.com:4444/udp/225.1.1.28:30120
 http://home1.tranducanh.com:4444/udp/225.1.1.12:30120
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 6" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 6
 http://home1.tranducanh.com:4444/udp/225.1.1.31:30120
+#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 11" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 11
+http://home1.tranducanh.com:4444/udp/225.1.1.68:30120
 
 
 
