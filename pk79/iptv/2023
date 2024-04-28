@@ -40,6 +40,9 @@ http://home1.tranducanh.com:4444/udp/225.1.1.132:30120
 #EXTINF:-1 group-title="🔴 LIVE YOUTUBE" tvg-logo="http://img.youtube.com/vi/1Uo3U4q2mRY/default.jpg",Danh ca Minh Cảnh|Những bài hát làm nên tên tuổi ca 
 https://tth.vn/TRỰC-TIẾP-TÂN-CỔ
 
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="http://img.youtube.com/vi/IlbJwtmbNx4/default.jpg",Anh nông dân vừa đàn vừa hát quá hay.! Ca cố đường phố KDL Văn Thánh | Trình bày: Lê Hưng - Trường Sơn AT 
+http://is.am/5nxx
+
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://i.imgur.com/6s6sIqT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",VTV5 FPT
 http://home1.tranducanh.com:4444/udp/225.1.1.131:30120
 
