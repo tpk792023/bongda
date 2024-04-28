@@ -34,11 +34,11 @@ http://tth.vn/THVL3FHD
 http://tth.vn/THVL4FHD
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/KG1_Kien_Giang_%282019%29.png/revision/latest?cb=20211122032438&path-prefix=vi",Kiên Giang
-http://42.115.9.10:4022/udp/225.1.2.182:30120
+http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.2.182:30120
 #http://home1.tranducanh.com:4444/udp/225.1.2.182:30120
 
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | Truyền Hình Thành Phố Cần Thơ
-http://42.115.9.10:4022/udp/225.1.1.132:30120
+http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.1.132:30120
 
 
 
@@ -49,11 +49,11 @@ https://tth.vn/TRỰC-TIẾP-TÂN-CỔ
 http://is.am/5nxx
 
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://i.imgur.com/6s6sIqT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",VTV5 FPT
-http://cukhoaitay.duckdns.org:8585/udp/225.1.1.131:30120
+http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.1.131:30120
 
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ
-http://42.115.9.10:4022/udp/225.1.2.245:30120
+http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.2.245:30120
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.upanh.org/2024/04/21/1000006521-removebg-previewf872305bb2f60e78.png",VTV5 HD 
 https://tth.vn/VTV5FHD1
