@@ -67,13 +67,7 @@ https://tth.vn/VTV5TNBFHD1
 #https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 5" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 5
-https://tth.vn/XEM-ASIAN-AFC-U23
-#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 7" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 7
-https://tth.vn/TT-SỰ-KIỆN
-#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 20" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 20
-https://tth.vn/TT-SỰ-KIỆN-MỚI-LIVE
-#EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 22" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 22
-https://tth.vn/TT-SỰ-KIỆN-KHI-LIVE
+
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 3" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 3
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.1.27:30120
 #EXTINF:-1  tvg-id="" tvg-name="Live * FPT Play Event 4" tvg-logo="http://iptv.hoangai.vn:8080/images/mg9e4VnU5MiobcDarwnBsTNQ-_rS9p6vRg4qMSase00.png" group-title="FPT Live Basic ( 50fps )",Live * FPT Play Event 4
